@@ -36,6 +36,8 @@ My collection of 3rd party libraries for iOS
 
 ## 各種統計圖表
 1. [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph) : Elegant Line Graphs for iOS.
+2. [JBChartView](https://github.com/Jawbone/JBChartView) : iOS-based charting library for both line and bar graphs.
+3. [ios-charts](https://github.com/danielgindi/ios-charts) : An iOS port of the beautiful MPAndroidChart. - Beautiful charts for iOS apps!
 
 ## Notification
 1. [CRToast](https://github.com/cruffenach/CRToast) : CRToast is a library that allows you to easily create notifications that appear on top of or by pushing out the status bar or navigation bar.
@@ -48,6 +50,7 @@ My collection of 3rd party libraries for iOS
 
 ## Auto Layout
 1. [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) : UIView category which makes it easy to create layout constraints in code
+2. [PureLayout](https://github.com/smileyborg/PureLayout) : The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
 
 ## Encryption
 1. [RNCryptor](https://github.com/RNCryptor/RNCryptor) : CCCryptor (AES encryption) wrappers for iOS and Mac.
