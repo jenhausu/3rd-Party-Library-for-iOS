@@ -10,6 +10,7 @@ My collection of 3rd party libraries for iOS
 
 #### UIView
 1. [SIAlertView](https://github.com/Sumi-Interactive/SIAlertView) : An UIAlertView replacement with block syntax and fancy transition styles.
+2. [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) : A Swift library to design custom prompts with a great scope of options to choose from.
 2. [BlockAlertsAnd-ActionSheets](https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets) : Beautifully done UIAlertView and UIActionSheet replacements inspired by TweetBot.
 3. [CMPopTipView](https://github.com/chrismiles/CMPopTipView) : Custom UIView for iOS that pops up an animated "bubble" pointing at a button or other view. Useful for popup tips.
 4. [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) : Flat button with 9 different states using POP.
@@ -17,6 +18,7 @@ My collection of 3rd party libraries for iOS
 6. [GMGridView](https://github.com/gmoledina/GMGridView) : A performant Grid-View for iOS (iPhone/iPad) that allows sorting of views with gestures (the user can move the items with his finger to sort them) and pinching/rotating/panning gestures allow the user to play with the view and toggle from the cellview to a fullsize display.
 7. [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) : The waterfall (i.e., Pinterest-like) layout for UICollectionView.
 8. [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) : Folding Tab Bar and Tab Bar Controller
+9. [YIPopupTextView](https://github.com/inamiy/YIPopupTextView) : facebook's post-like input text view for iOS.
 
 #### Custom datePicker
 1. [MWDatePicker](https://github.com/mwermuth/MWDatePicker) : Customize the good ol' UIDatePicker
@@ -30,8 +32,10 @@ My collection of 3rd party libraries for iOS
 3. [ViewDeck](https://github.com/Inferis/ViewDeck) : An implementation of the sliding functionality found in the Path 2.0 or Facebook iOS apps.
 4. [MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController) : Container view controller that leverages UIKit Dynamics to provide a realistic drawer navigation paradigm.
 5. [YRSideViewController](https://github.com/YueRuo/YRSideViewController) : Simple side viewController for iOS
+6. [SwiftSideslipLikeQQ](https://github.com/johnlui/SwiftSideslipLikeQQ) : 再造 “手机QQ” 侧滑菜单
 6. [FXBlurView](https://github.com/nicklockwood/FXBlurView) : UIView subclass that replicates the iOS 7 realtime background blur effect, but works on iOS 5 and above.
 7. [KNSemiModalViewController](https://github.com/kentnguyen/KNSemiModalViewController) : UIViewController+KNSemiModal is an effort to make a replica of semi-modal view with pushed-back stacked animation found in the beautiful Park Guides by National Geographic app. 
+8. [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) : Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.
 
 
 ## 各種統計圖表
@@ -48,9 +52,14 @@ My collection of 3rd party libraries for iOS
 ## Animation
 1. [pop](https://github.com/facebook/pop) : An extensible iOS and OS X animation library, useful for physics-based interactions.
 
+## 影像特效
+1. [YIPopupTextView](https://github.com/Adrian2112/UIImage-BlurredFrame) : UIImage category that blurs an specified frame of a UIImage
+2. [SABlurImageView](https://github.com/szk-atmosphere/SABlurImageView) : You can use blur effect and it's animation easily to call only two methods.
+
 ## Auto Layout
 1. [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) : UIView category which makes it easy to create layout constraints in code
 2. [PureLayout](https://github.com/smileyborg/PureLayout) : The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
+3. [Cartography](https://github.com/robb/Cartography) : Set up your Auto Layout constraints declaratively and without any stringly typing!
 
 ## Encryption
 1. [RNCryptor](https://github.com/RNCryptor/RNCryptor) : CCCryptor (AES encryption) wrappers for iOS and Mac.
@@ -67,7 +76,13 @@ My collection of 3rd party libraries for iOS
 3. [nimbus](https://github.com/jverkoey/nimbus) : Nimbus is a toolkit for experienced iOS software designers. It provides well-documented, modular components that solve a number of common iOS software requirements. This includes: a rich text label with hyperlinks; a web view controller; a simple approach to table models, radio groups, and table actions; standardized interapp communication, and powerful debugging tools, amongst many other features.
 2. [JSONKit](https://github.com/johnezang/JSONKit) : (warning! This project hasn't update for three years. So I'm not sure this is a good library or not.)
 
+## Payment
+1. [PaymentKit](https://github.com/stripe/PaymentKit) : Easily accept payments on iOS
+2. [stripe-ios](https://github.com/stripe/stripe-ios) : The Stripe iOS SDK make it easy to collect your users' credit card details inside your iOS app.
 
 ## Others
 1. [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) : Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 2. [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) : A drop-in universal solution for moving text fields out of the way of the keyboard in iOS.
+3. [WobbleView](https://github.com/inFullMobile/WobbleView)
+4. [RichEditorView](https://github.com/cjwirth/RichEditorView) : RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
+
