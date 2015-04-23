@@ -12,6 +12,8 @@
 1. [SIAlertView](https://github.com/Sumi-Interactive/SIAlertView) : An UIAlertView replacement with block syntax and fancy transition styles.
 2. [Swift-Prompts](https://github.com/GabrielAlva/Swift-Prompts) : A Swift library to design custom prompts with a great scope of options to choose from.
 3. [BlockAlertsAnd-ActionSheets](https://github.com/gpambrozio/BlockAlertsAnd-ActionSheets) : Beautifully done UIAlertView and UIActionSheet replacements inspired by TweetBot.
+4. [SCLAlertView](https://github.com/dogo/SCLAlertView)
+5. [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 
 ### Messages 相關
 
