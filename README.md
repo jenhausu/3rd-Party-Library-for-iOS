@@ -1,6 +1,35 @@
 # 3rd Party Library Collection for iOS
 這是我收集了一些第三方的 Library，大部份都還沒用過Orz，只是這樣整理以後要用到的時候會比較好找到。
 
+- [UI](#ui)
+	- [UI Design](#ui-design)
+	- [alertView](#alertview)
+	- [Menu（選單）](#menu)
+	- [Side ViewController](#side-viewcontroller)
+	- [UICollectionView](#uicollectionview)
+	- [Segment Control](#segment-control)
+	- [Others](#others-ui)
+- [動畫](#animation)
+- [影像特效](#effect)
+	- [模糊、毛玻璃效果（Blur）](#blur)
+- [畫面轉換](#transition)
+- [各種統計圖表](#chart)
+	- [Line](#line)
+	- [Bar](#bar)
+	- [Pie](#pie)
+	- [Others](#others-chart)
+- [Pull To ReFresh](#pull-to-refresh)
+- [Notification](#notification)
+- [Auto Layout](#auto-layout)
+- [Data Storage](#data-storage)
+- [Tools](#tools)
+- [Snippets](#snippets)
+- [Message](#message)
+- [Encryption](#encryption)
+- [Payment](#payment)
+- [Custom datePicker](#custom-datepicker)
+- [Others](#others)
+
 ## UI
 [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) : A curated list of awesome iOS UI/UX libraries.
 ### UI Design
@@ -16,7 +45,7 @@
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) : A Periscope-inspired way to ask for iOS permissions
 
-### 各種選單（Menu）
+### Menu
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) : Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.
 * [RNFrostedSidebar](https://github.com/rnystrom/RNFrostedSidebar) : A Control Center-esque control with blurred background and toggle animations.
 * [AwesomeMenu](https://github.com/levey/AwesomeMenu) : AwesomeMenu is a menu with the same look as the story menu of Path.
@@ -24,7 +53,7 @@
 * [KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu) : Gooey Effects 带粘性的扇形菜单
 * [DOPDropDownMenu](https://github.com/dopcn/DOPDropDownMenu) : Drop down menu like we see on website for iPhone
 
-### Side ViewController : 這個分類下面的東西可能會有重疊
+### Side ViewController
 * [MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController) : Container view controller that leverages UIKit Dynamics to provide a realistic drawer navigation paradigm.
 * [RESideMenu](https://github.com/romaonthego/RESideMenu) : iOS 7/8 style side menu with parallax effect.
 * [ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController) : Customizable sliding view controller container. Supports all screen sizes and orientations.
@@ -42,7 +71,7 @@
 ### Segment Control
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) : A drop-in replacement for UISegmentedControl mimicking the style of the segmented control used in Google Currents and various other Google products.
 
-### Others
+### Others UI
 * [CMPopTipView](https://github.com/chrismiles/CMPopTipView) : Custom UIView for iOS that pops up an animated "bubble" pointing at a button or other view. Useful for popup tips.
 * [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) : Flat button with 9 different states using POP.
 * [GMGridView](https://github.com/gmoledina/GMGridView) : A performant Grid-View for iOS (iPhone/iPad) that allows sorting of views with gestures (the user can move the items with his finger to sort them) and pinching/rotating/panning gestures allow the user to play with the view and toggle from the cellview to a fullsize display.
@@ -51,25 +80,25 @@
 * [KNSemiModalViewController](https://github.com/kentnguyen/KNSemiModalViewController) : UIViewController+KNSemiModal is an effort to make a replica of semi-modal view with pushed-back stacked animation found in the beautiful Park Guides by National Geographic app. 
 
 
-## 動畫（Animation）
+## Animation
 * [pop](https://github.com/facebook/pop) : An extensible iOS and OS X animation library, useful for physics-based interactions.
 * [Canvas](https://github.com/CanvasPod/Canvas) : Animate in Xcode without code
 
-## 影像特效（Effect）
+## Effect
 * [Shimmer](https://github.com/facebook/Shimmer) : An easy way to add a simple, shimmering effect to any view in an iOS app.
 
-### 模糊、毛玻璃效果（Blur）
+### Blur
 * [UIImage-BlurredFrame](https://github.com/Adrian2112/UIImage-BlurredFrame) : UIImage category that blurs an specified frame of a UIImage
 * [SABlurImageView](https://github.com/szk-atmosphere/SABlurImageView) : You can use blur effect and it's animation easily to call only two methods.
 * [DynamicBlurView](https://github.com/KyoheiG3/DynamicBlurView) : DynamicBlurView is a dynamic and high performance UIView subclass for Blur.
 * [FXBlurView](https://github.com/nicklockwood/FXBlurView) : UIView subclass that replicates the iOS 7 realtime background blur effect, but works on iOS 5 and above.
 
-## 畫面轉換（Transition）
+## Transition
 * [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) : A collection of iOS 7 animation controllers and interaction controllers, providing flip, fold and all kinds of other transitions.
 * [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) : Collection of iOS 7 custom animated transitions using UIViewControllerAnimatedTransitioning protocol.
 * [PaperFold-for-iOS](https://github.com/honcheng/PaperFold-for-iOS) : Paper folding animation for iOS.
 
-## 各種統計圖表（Chart）
+## Chart
 ### Line
 * [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph) : Elegant Line Graphs for iOS.
 
@@ -82,15 +111,15 @@
 3. [VBPieChart](https://github.com/sakrist/VBPieChart) : Pie Chart iOS control with different animations to present.
 4. [CSCoverageChart](https://github.com/common-sense/CSCoverageChart) : Pie chart with multiple slices at even angles, each slice can have different radius. Useful when displaying coverage data.
 
-### 各種（難以分類）
+### Others Chart
 * [JBChartView](https://github.com/Jawbone/JBChartView) : iOS-based charting library for both line and bar graphs.
 * [ios-charts](https://github.com/danielgindi/ios-charts) : An iOS port of the beautiful MPAndroidChart. - Beautiful charts for iOS apps!
 
-## 下拉更新（pull-to-refresh）
+## Pull To Refresh
 * [MJRefresh](https://github.com/CoderMJLee/MJRefresh) : The easiest way to use pull-to-refresh.
 * [XHRefreshControl](https://github.com/xhzengAIB/XHRefreshControl) : XHRefreshControl 是一款高扩展性、低耦合度的下拉刷新、上提加载更多的组件。
 
-## 通知（Notification）
+## Notification
 * [CRToast](https://github.com/cruffenach/CRToast) : CRToast is a library that allows you to easily create notifications that appear on top of or by pushing out the status bar or navigation bar.
 2. [TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager) : An iOS manager for presenting system-wide notifications via a dropdown message bar.
 3. [YRDropdownView](https://github.com/onemightyroar/YRDropdownView) : iOS view library for displaying stylish alerts, warnings, & errors.
@@ -103,31 +132,11 @@
 4. [SnapKit](https://github.com/SnapKit/SnapKit) : SnapKit is a DSL to make Auto Layout easy on both iOS and OS X.
 5. [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) : Template auto layout cell for automatically UITableViewCell height calculating
 
-## Messages 相關
-* [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) : 這應該是做 Messages 最大的 Library
-2. [SOMessaging](https://github.com/SocialObjects-Software/SOMessaging) : This is a simple library to easily create a messaging app with smooth animations.
-3. [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) : An IM App like WeChat App has to send text, pictures, audio, video, location messaging, managing local address book, share a circle of friends, drifting friends, shake a fun and more interesting features.
-4. [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) : A drop-in UIViewController subclass with a growing text input view and other useful messaging features.
-5. [Atlas-iOS](https://github.com/layerhq/Atlas-iOS) : Atlas is a library of native iOS communications user interface components for Layer.
-
-## Encryption
-* [RNCryptor](https://github.com/RNCryptor/RNCryptor) : CCCryptor (AES encryption) wrappers for iOS and Mac.
-
 ## Data Storage
 * [YapDatabase](https://github.com/yapstudios/YapDatabase) : YapDatabase is an extensible database for iOS & Mac.
 2. [fmdb](https://github.com/ccgus/fmdb) : A Cocoa / Objective-C wrapper around SQLite.
 3. [TMCache](https://github.com/tumblr/TMCache) : Fast parallel object cache for iOS and OS X.
 4. [Sync](https://github.com/hyperoslo/Sync) : Modern JSON synchronization to Core Data
-
-## Payment
-* [PaymentKit](https://github.com/stripe/PaymentKit) : Easily accept payments on iOS
-2. [stripe-ios](https://github.com/stripe/stripe-ios) : The Stripe iOS SDK make it easy to collect your users' credit card details inside your iOS app.
-
-## Custom datePicker
-* [MWDatePicker](https://github.com/mwermuth/MWDatePicker) : Customize the good ol' UIDatePicker
-2. [FlatDatePicker](https://github.com/syshen/FlatDatePicker):
-3. [Asich/AADatePicker](https://github.com/Asich/AADatePicker)
-4. [attias/AACustomDatePicker](https://github.com/attias/AACustomDatePicker)
 
 ## Tools
 * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) : Xcode plug-in which helps you write Javadoc style documents easier.
@@ -139,6 +148,26 @@
 ## Snippets
 * [XcodeSwiftSnippets](https://github.com/burczyk/XcodeSwiftSnippets) : Swift code snippets for Xcode
 2. [Fucking-Block-Syntax-Autocompletion](https://github.com/schukin/Fucking-Block-Syntax-Autocompletion) : Xcode snippets for fucking block syntax
+
+## Message
+* [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) : 這應該是做 Messages 最大的 Library
+2. [SOMessaging](https://github.com/SocialObjects-Software/SOMessaging) : This is a simple library to easily create a messaging app with smooth animations.
+3. [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) : An IM App like WeChat App has to send text, pictures, audio, video, location messaging, managing local address book, share a circle of friends, drifting friends, shake a fun and more interesting features.
+4. [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) : A drop-in UIViewController subclass with a growing text input view and other useful messaging features.
+5. [Atlas-iOS](https://github.com/layerhq/Atlas-iOS) : Atlas is a library of native iOS communications user interface components for Layer.
+
+## Encryption
+* [RNCryptor](https://github.com/RNCryptor/RNCryptor) : CCCryptor (AES encryption) wrappers for iOS and Mac.
+
+## Payment
+* [PaymentKit](https://github.com/stripe/PaymentKit) : Easily accept payments on iOS
+2. [stripe-ios](https://github.com/stripe/stripe-ios) : The Stripe iOS SDK make it easy to collect your users' credit card details inside your iOS app.
+
+## Custom datePicker
+* [MWDatePicker](https://github.com/mwermuth/MWDatePicker) : Customize the good ol' UIDatePicker
+2. [FlatDatePicker](https://github.com/syshen/FlatDatePicker):
+3. [Asich/AADatePicker](https://github.com/Asich/AADatePicker)
+4. [attias/AACustomDatePicker](https://github.com/attias/AACustomDatePicker)
 
 ## Others
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) : Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
