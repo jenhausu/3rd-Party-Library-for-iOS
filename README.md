@@ -45,6 +45,11 @@
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) : A Periscope-inspired way to ask for iOS permissions
 
+### UITableViewCell
+* [SwipeableCellView](https://github.com/xudafeng/SwipeableCellView) : An easy swipeable for Objective-C.
+* [WobbleView](https://github.com/inFullMobile/WobbleView) : WobbleView is an implementation of a recently popular wobble effect for any view in your app.
+
+
 ### Menu
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) : Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.
 * [RNFrostedSidebar](https://github.com/rnystrom/RNFrostedSidebar) : A Control Center-esque control with blurred background and toggle animations.
@@ -78,6 +83,7 @@
 * [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) : Folding Tab Bar and Tab Bar Controller
 * [YIPopupTextView](https://github.com/inamiy/YIPopupTextView) : facebook's post-like input text view for iOS.
 * [KNSemiModalViewController](https://github.com/kentnguyen/KNSemiModalViewController) : UIViewController+KNSemiModal is an effort to make a replica of semi-modal view with pushed-back stacked animation found in the beautiful Park Guides by National Geographic app. 
+* [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) : Create condensing header bars like those seen in the Facebook, Square Cash, and Safari iOS apps.
 
 
 ## Animation
@@ -86,12 +92,14 @@
 
 ## Effect
 * [Shimmer](https://github.com/facebook/Shimmer) : An easy way to add a simple, shimmering effect to any view in an iOS app.
+* [WZFlashButton](https://github.com/SatanWoo/WZFlashButton) : A button with flash-like effect
 
 ### Blur
 * [UIImage-BlurredFrame](https://github.com/Adrian2112/UIImage-BlurredFrame) : UIImage category that blurs an specified frame of a UIImage
 * [SABlurImageView](https://github.com/szk-atmosphere/SABlurImageView) : You can use blur effect and it's animation easily to call only two methods.
 * [DynamicBlurView](https://github.com/KyoheiG3/DynamicBlurView) : DynamicBlurView is a dynamic and high performance UIView subclass for Blur.
 * [FXBlurView](https://github.com/nicklockwood/FXBlurView) : UIView subclass that replicates the iOS 7 realtime background blur effect, but works on iOS 5 and above.
+* [GradientView](https://github.com/soffes/GradientView) : Easily use gradients in UIKit.
 
 ## Transition
 * [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) : A collection of iOS 7 animation controllers and interaction controllers, providing flip, fold and all kinds of other transitions.
@@ -107,16 +115,21 @@
 
 ### Pie
 * [XYPieChart](https://github.com/xyfeng/XYPieChart) : A simple and animated Pie Chart for your iOS app.
-2. [MDRotatingPieChart](https://github.com/maxday/MDRotatingPieChart) : An iOS library to draw beautiful pie charts
-3. [VBPieChart](https://github.com/sakrist/VBPieChart) : Pie Chart iOS control with different animations to present.
-4. [CSCoverageChart](https://github.com/common-sense/CSCoverageChart) : Pie chart with multiple slices at even angles, each slice can have different radius. Useful when displaying coverage data.
+* [MDRotatingPieChart](https://github.com/maxday/MDRotatingPieChart) : An iOS library to draw beautiful pie charts
+* [VBPieChart](https://github.com/sakrist/VBPieChart) : Pie Chart iOS control with different animations to present.
+* [CSCoverageChart](https://github.com/common-sense/CSCoverageChart) : Pie chart with multiple slices at even angles, each slice can have different radius. Useful when displaying coverage data.
 
 ### Others Chart
 * [JBChartView](https://github.com/Jawbone/JBChartView) : iOS-based charting library for both line and bar graphs.
 * [ios-charts](https://github.com/danielgindi/ios-charts) : An iOS port of the beautiful MPAndroidChart. - Beautiful charts for iOS apps!
 
+## Storyboard
+* [StoryboardXibController](https://github.com/Codecademy/StoryboardXibController) : A View Controller for loading Xibs from your Storyboards
+* [JGLinkedStoryboard](https://github.com/jeremygrenier/JGLinkedStoryboard) : Makes transitioning between multiple storyboards easy.
+
 ## Pull To Refresh
 * [MJRefresh](https://github.com/CoderMJLee/MJRefresh) : The easiest way to use pull-to-refresh.
+* [SSPullToRefresh](https://github.com/soffes/sspulltorefresh) : Simple and highly customizable pull to refresh view.
 * [XHRefreshControl](https://github.com/xhzengAIB/XHRefreshControl) : XHRefreshControl 是一款高扩展性、低耦合度的下拉刷新、上提加载更多的组件。
 
 ## Notification
@@ -138,6 +151,9 @@
 3. [TMCache](https://github.com/tumblr/TMCache) : Fast parallel object cache for iOS and OS X.
 4. [Sync](https://github.com/hyperoslo/Sync) : Modern JSON synchronization to Core Data
 
+## Core Data
+* [SSDataKit](https://github.com/soffes/ssdatakit) : Eliminate your Core Data boilerplate code.
+
 ## Tools
 * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) : Xcode plug-in which helps you write Javadoc style documents easier.
 2. [Nimbus](https://github.com/jverkoey/nimbus) : Nimbus is a toolkit for experienced iOS software designers. It provides well-documented, modular components that solve a number of common iOS software requirements. This includes: a rich text label with hyperlinks; a web view controller; a simple approach to table models, radio groups, and table actions; standardized interapp communication, and powerful debugging tools, amongst many other features.
@@ -153,8 +169,16 @@
 * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) : 這應該是做 Messages 最大的 Library
 2. [SOMessaging](https://github.com/SocialObjects-Software/SOMessaging) : This is a simple library to easily create a messaging app with smooth animations.
 3. [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) : An IM App like WeChat App has to send text, pictures, audio, video, location messaging, managing local address book, share a circle of friends, drifting friends, shake a fun and more interesting features.
-4. [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) : A drop-in UIViewController subclass with a growing text input view and other useful messaging features.
 5. [Atlas-iOS](https://github.com/layerhq/Atlas-iOS) : Atlas is a library of native iOS communications user interface components for Layer.
+6. [SSMessagesViewController](https://github.com/soffes/ssmessagesviewcontroller) : iOS Messages.app style table view controller
+
+## Keyboard
+* [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) : A drop-in UIViewController subclass with a growing text input view and other useful messaging features.
+* [SYKeyboardTextField](https://github.com/441088327/SYKeyboardTextField) : SYKeyboardTextField 是一个轻巧,简单,非侵入式的键盘附随输入框! 在输入框高度定位方面借鉴了出名的开源库 SlackTextViewController 不过相对于 SlackTextViewController . SYKeyboardTextField 是一个轻量型的,即插即拔的实现方式.
+
+## Audio
+* [RecordAndPlayVoice](https://github.com/liuchunlao/RecordAndPlayVoice) : 模仿微信的录音和播放功能，在录音的时候检测音量调整图片，可以实现录音、播放、及删除录音文件功能。
+
 
 ## Encryption
 * [RNCryptor](https://github.com/RNCryptor/RNCryptor) : CCCryptor (AES encryption) wrappers for iOS and Mac.
@@ -165,12 +189,12 @@
 
 ## Custom datePicker
 * [MWDatePicker](https://github.com/mwermuth/MWDatePicker) : Customize the good ol' UIDatePicker
-2. [FlatDatePicker](https://github.com/syshen/FlatDatePicker):
-3. [Asich/AADatePicker](https://github.com/Asich/AADatePicker)
-4. [attias/AACustomDatePicker](https://github.com/attias/AACustomDatePicker)
+* [FlatDatePicker](https://github.com/syshen/FlatDatePicker):
+* [Asich/AADatePicker](https://github.com/Asich/AADatePicker)
+* [attias/AACustomDatePicker](https://github.com/attias/AACustomDatePicker)
+* [nmdatepicker](https://github.com/gkopel/nmdatepicker) : Custom OS X Date Picker
 
 ## Others
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) : Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 2. [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) : A drop-in universal solution for moving text fields out of the way of the keyboard in iOS.
-3. [WobbleView](https://github.com/inFullMobile/WobbleView)
 4. [RichEditorView](https://github.com/cjwirth/RichEditorView) : RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
