@@ -36,6 +36,10 @@
 * [PrettyKit](https://github.com/vicpenap/PrettyKit) : PrettyKit for iOS is a small set of new widgets and UIKit subclasses that gives you a deeper UIKit customization. You will be able to change their background color, add gradients, shadows, etc.
 * [Chameleon](https://github.com/VAlexander/Chameleon) : Chameleon is the first and only color framework on the market that focuses its full attention and efforts on "flat colors". With Chameleon, you can easily forget about UIColor RGB values, wasting hours figuring out the right color combinations to use in your app, and worrying about whether your text will be readable on the various background colors of your app.
 * [Colours](https://github.com/bennyguitar/Colours) : A beautiful set of predefined colors and a set of color methods to make your iOS/OSX development life easier.
+* [FlatUIKit](https://github.com/Grouper/FlatUIKit) : A collection of awesome flat UI components for iOS.
+
+## Color
+* [MPColorTools](https://github.com/marzapower/MPColorTools) : A collection of tools for handling colors on iOS SDK
 
 ### alertView
 * [SIAlertView](https://github.com/Sumi-Interactive/SIAlertView) : An UIAlertView replacement with block syntax and fancy transition styles.
@@ -44,10 +48,12 @@
 * [SCLAlertView](https://github.com/dogo/SCLAlertView)
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) : A Periscope-inspired way to ask for iOS permissions
+* [DLAlertView](https://github.com/regexident/DLAlertView) : UIAlertView replacement that can embed custom content views, is fully themable and let's you use a delegate and/or blocks.
 
 ### UITableViewCell
 * [SwipeableCellView](https://github.com/xudafeng/SwipeableCellView) : An easy swipeable for Objective-C.
 * [WobbleView](https://github.com/inFullMobile/WobbleView) : WobbleView is an implementation of a recently popular wobble effect for any view in your app.
+* [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) : An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
 
 
 ### Menu
@@ -89,6 +95,7 @@
 ## Animation
 * [pop](https://github.com/facebook/pop) : An extensible iOS and OS X animation library, useful for physics-based interactions.
 * [Canvas](https://github.com/CanvasPod/Canvas) : Animate in Xcode without code
+* [Popping](https://github.com/schneiderandre/popping) : A collection of animation examples for iOS apps.
 
 ## Effect
 * [Shimmer](https://github.com/facebook/Shimmer) : An easy way to add a simple, shimmering effect to any view in an iOS app.
@@ -131,12 +138,15 @@
 * [MJRefresh](https://github.com/CoderMJLee/MJRefresh) : The easiest way to use pull-to-refresh.
 * [SSPullToRefresh](https://github.com/soffes/sspulltorefresh) : Simple and highly customizable pull to refresh view.
 * [XHRefreshControl](https://github.com/xhzengAIB/XHRefreshControl) : XHRefreshControl 是一款高扩展性、低耦合度的下拉刷新、上提加载更多的组件。
+* [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) : Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code.
 
 ## Notification
 * [CRToast](https://github.com/cruffenach/CRToast) : CRToast is a library that allows you to easily create notifications that appear on top of or by pushing out the status bar or navigation bar.
-2. [TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager) : An iOS manager for presenting system-wide notifications via a dropdown message bar.
-3. [YRDropdownView](https://github.com/onemightyroar/YRDropdownView) : iOS view library for displaying stylish alerts, warnings, & errors.
-4. [JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification) : Easy, customizable notifications displayed on top of the statusbar.
+* [TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager) : An iOS manager for presenting system-wide notifications via a dropdown message bar.
+* [YRDropdownView](https://github.com/onemightyroar/YRDropdownView) : iOS view library for displaying stylish alerts, warnings, & errors.
+* [JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification) : Easy, customizable notifications displayed on top of the statusbar.
+* [TSMessages](https://github.com/KrauseFx/TSMessages) :This library provides an easy to use class to show little notification views on the top of the screen.
+
 
 ## Auto Layout
 * [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) : UIView category which makes it easy to create layout constraints in code
@@ -147,12 +157,22 @@
 
 ## Data Storage
 * [YapDatabase](https://github.com/yapstudios/YapDatabase) : YapDatabase is an extensible database for iOS & Mac.
-2. [fmdb](https://github.com/ccgus/fmdb) : A Cocoa / Objective-C wrapper around SQLite.
-3. [TMCache](https://github.com/tumblr/TMCache) : Fast parallel object cache for iOS and OS X.
-4. [Sync](https://github.com/hyperoslo/Sync) : Modern JSON synchronization to Core Data
+* [fmdb](https://github.com/ccgus/fmdb) : A Cocoa / Objective-C wrapper around SQLite.
+* [TMCache](https://github.com/tumblr/TMCache) : Fast parallel object cache for iOS and OS X.
+* [Realm](https://github.com/realm/realm-cocoa) : Realm is a mobile database: a replacement for Core Data & SQLite 
 
 ## Core Data
 * [SSDataKit](https://github.com/soffes/ssdatakit) : Eliminate your Core Data boilerplate code.
+
+## JSON
+* [Sync](https://github.com/hyperoslo/Sync) : Modern JSON synchronization to Core Data
+
+## Testing
+* [Remote - Control your iPhone from Xcode](https://github.com/johnno1962/Remote) : "Remote" is a plugin for Xcode that allows you to control an iPhone from a window on your Mac during development. Originally created to avoid having to pick up a device during testing you can record "macros" of device touches and replay them. It will also compare the resulting screen output against a snapshot for end-to-end testing. The Macro log is an editable WebView that can be modified at will. Finally, you can now record and save all display output into a quicktime movie.
+
+## Apple Push Notification Service
+* [NWPusher](https://github.com/noodlewerk/NWPusher) : OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
+
 
 ## Tools
 * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) : Xcode plug-in which helps you write Javadoc style documents easier.
