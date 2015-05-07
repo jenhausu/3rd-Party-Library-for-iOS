@@ -107,6 +107,7 @@
 * [Canvas](https://github.com/CanvasPod/Canvas) : Animate in Xcode without code
 * [Popping](https://github.com/schneiderandre/popping) : A collection of animation examples for iOS apps.
 * [INTUAnimationEngine](https://github.com/intuit/AnimationEngine) : INTUAnimationEngine makes it easy to build advanced custom animations on iOS.
+* [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) : Shake a view with a single line of code with a non-intrusive extension for UIView, written in Swift.
 
 ## Effect
 * [Shimmer](https://github.com/facebook/Shimmer) : An easy way to add a simple, shimmering effect to any view in an iOS app.
