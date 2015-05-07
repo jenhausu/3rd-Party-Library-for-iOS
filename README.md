@@ -44,6 +44,7 @@
 * [Colours](https://github.com/bennyguitar/Colours) : A beautiful set of predefined colors and a set of color methods to make your iOS/OSX development life easier.
 * [Chameleon](https://github.com/VAlexander/Chameleon) : Chameleon is the first and only color framework on the market that focuses its full attention and efforts on "flat colors". With Chameleon, you can easily forget about UIColor RGB values, wasting hours figuring out the right color combinations to use in your app, and worrying about whether your text will be readable on the various background colors of your app.
 * [UIColor-ChineseTraditionalColors](https://github.com/zhxnlai/UIColor-ChineseTraditionalColors) : A swift extension that extends UIColor with a list of Chinese traditional colors
+* [XCode-Color-Fixer](https://github.com/duowan/XCode-Color-Fixer) : StoryBoard / XIB 颜色偏差很严重，怎么破？XCode-Color-Fixer帮你忙！
 
 ### alertView
 * [SIAlertView](https://github.com/Sumi-Interactive/SIAlertView) : An UIAlertView replacement with block syntax and fancy transition styles.
@@ -85,6 +86,9 @@
 
 ### Segment Control
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) : A drop-in replacement for UISegmentedControl mimicking the style of the segmented control used in Google Currents and various other Google products.
+
+### PageViewController
+* [GUITabPagerViewController](https://github.com/guilhermearaujo/GUITabPagerViewController) : PageViewController with a Tab Bar Controller on the top
 
 ### Others UI
 * [CMPopTipView](https://github.com/chrismiles/CMPopTipView) : Custom UIView for iOS that pops up an animated "bubble" pointing at a button or other view. Useful for popup tips.
@@ -163,22 +167,32 @@
 4. [SnapKit](https://github.com/SnapKit/SnapKit) : SnapKit is a DSL to make Auto Layout easy on both iOS and OS X.
 5. [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) : Template auto layout cell for automatically UITableViewCell height calculating
 
-## Data Storage
+## Data
+### Data Storage
 * [YapDatabase](https://github.com/yapstudios/YapDatabase) : YapDatabase is an extensible database for iOS & Mac.
 * [fmdb](https://github.com/ccgus/fmdb) : A Cocoa / Objective-C wrapper around SQLite.
 * [TMCache](https://github.com/tumblr/TMCache) : Fast parallel object cache for iOS and OS X.
 * [Realm](https://github.com/realm/realm-cocoa) : Realm is a mobile database: a replacement for Core Data & SQLite 
 
-## Core Data
+### Core Data
 * [SSDataKit](https://github.com/soffes/ssdatakit) : Eliminate your Core Data boilerplate code.
 
-## JSON
+### JSON
 * [Sync](https://github.com/hyperoslo/Sync) : Modern JSON synchronization to Core Data
+* [Genome](https://github.com/LoganWright/Genome) : This library is meant to simplify the process of mapping JSON to models by providing a clean and flexible API that binds mapping to their models.
 
 ## Internet
 * [EVCloudKitDao](https://github.com/evermeer/EVCloudKitDao) : This is a library to simplify the access to Apple's CloudKit data and notifications
 * [Alamofire](https://github.com/Alamofire/Alamofire) : Elegant HTTP Networking in Swift
 * [AFNetworking-PromiseKit](https://github.com/csotiriou/AFNetworking-PromiseKit) : PromiseKit+AFNetworking is a small category addition to the delightful PromiseKit, enabling it to work with AFNetworking.
+* [ASIHTTPRequest](https://github.com/pokeb/asi-http-request) : ASIHTTPRequest is an easy to use wrapper around the CFNetwork API that makes some of the more tedious aspects of communicating with web servers easier.
+* [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) : Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
+
+### Synchronize
+* [TICoreDataSync](https://github.com/nothirst/TICoreDataSync) : Automatic synchronization for Core Data apps, between any combination of Mac OS X and iOS: Mac to iPhone to iPad to iPod touch and back again.
+
+### Backend
+* [DataKit](https://github.com/eaigner/DataKit) : DataKit makes it easy to add web backends to your apps!
 
 ## Location
 * [INTULocationManager](https://github.com/intuit/LocationManager) : INTULocationManager makes it easy to get the device's current location on iOS. 
@@ -188,6 +202,7 @@
 
 ## Testing
 * [Remote - Control your iPhone from Xcode](https://github.com/johnno1962/Remote) : "Remote" is a plugin for Xcode that allows you to control an iPhone from a window on your Mac during development. Originally created to avoid having to pick up a device during testing you can record "macros" of device touches and replay them. It will also compare the resulting screen output against a snapshot for end-to-end testing. The Macro log is an editable WebView that can be modified at will. Finally, you can now record and save all display output into a quicktime movie.
+* [XLTestLog](https://github.com/xareelee/XLTestLog) : Styling and coloring your XCTest logs on Xcode Console
 
 ## Apple Push Notification Service
 * [NWPusher](https://github.com/noodlewerk/NWPusher) : OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
@@ -237,3 +252,4 @@
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) : Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
 2. [TPKeyboardAvoiding](https://github.com/michaeltyson/TPKeyboardAvoiding) : A drop-in universal solution for moving text fields out of the way of the keyboard in iOS.
 4. [RichEditorView](https://github.com/cjwirth/RichEditorView) : RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.
+5. [What-s-New](https://github.com/mdznr/What-s-New) : Easily present the latest changes and features to your users on app updates.
