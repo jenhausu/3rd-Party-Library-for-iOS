@@ -36,6 +36,8 @@
 * [PrettyKit](https://github.com/vicpenap/PrettyKit) : PrettyKit for iOS is a small set of new widgets and UIKit subclasses that gives you a deeper UIKit customization. You will be able to change their background color, add gradients, shadows, etc.
 * [FlatUIKit](https://github.com/Grouper/FlatUIKit) : A collection of awesome flat UI components for iOS.
 * [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) : Programmatically load custom fonts into your iOS app.
+* [Motif](https://github.com/erichoracek/Motif) : A lightweight and customizable JSON stylesheet framework for iOS
+* [RNThemeManager](https://github.com/rnystrom/RNThemeManager) : Easily manage themes and respond to theme changes by updating views in real time.
 
 ## Color
 * [MPColorTools](https://github.com/marzapower/MPColorTools) : A collection of tools for handling colors on iOS SDK
@@ -93,6 +95,8 @@
 * [KNSemiModalViewController](https://github.com/kentnguyen/KNSemiModalViewController) : UIViewController+KNSemiModal is an effort to make a replica of semi-modal view with pushed-back stacked animation found in the beautiful Park Guides by National Geographic app. 
 * [BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) : Create condensing header bars like those seen in the Facebook, Square Cash, and Safari iOS apps.
 * [iOS-Swift-Circular-Progress-View](https://github.com/wltrup/iOS-Swift-Circular-Progress-View) : A customisable Swift class for a progress view similar to what the Apple Watch has.
+* [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) : An easy way to generate activity indicator images for Apple Watch
+* [DKNightVersion](https://github.com/Draveness/DKNightVersion) : DKNightVersion is a lightweight iOS framework adding night mode to your iOS app.
 
 ## Animation
 * [pop](https://github.com/facebook/pop) : An extensible iOS and OS X animation library, useful for physics-based interactions.
@@ -209,6 +213,7 @@
 ## Keyboard
 * [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) : A drop-in UIViewController subclass with a growing text input view and other useful messaging features.
 * [SYKeyboardTextField](https://github.com/441088327/SYKeyboardTextField) : SYKeyboardTextField 是一个轻巧,简单,非侵入式的键盘附随输入框! 在输入框高度定位方面借鉴了出名的开源库 SlackTextViewController 不过相对于 SlackTextViewController . SYKeyboardTextField 是一个轻量型的,即插即拔的实现方式.
+* [Tasty Imitation Keyboard](https://github.com/archagon/tasty-imitation-keyboard) : A custom keyboard for iOS8 that serves as a tasty imitation of the default Apple keyboard. Built using Swift and the latest Apple technologies!
 
 ## Audio
 * [RecordAndPlayVoice](https://github.com/liuchunlao/RecordAndPlayVoice) : 模仿微信的录音和播放功能，在录音的时候检测音量调整图片，可以实现录音、播放、及删除录音文件功能。
