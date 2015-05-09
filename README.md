@@ -142,6 +142,7 @@
 ### Others Chart
 * [JBChartView](https://github.com/Jawbone/JBChartView) : iOS-based charting library for both line and bar graphs.
 * [ios-charts](https://github.com/danielgindi/ios-charts) : An iOS port of the beautiful MPAndroidChart. - Beautiful charts for iOS apps!
+* [PNChart](https://github.com/kevinzhow/PNChart) : A simple and beautiful chart lib used in Piner and CoinsMan for iOS. ([Swift ver.](https://github.com/kevinzhow/PNChart-Swift))
 
 ## Storyboard
 * [StoryboardXibController](https://github.com/Codecademy/StoryboardXibController) : A View Controller for loading Xibs from your Storyboards
