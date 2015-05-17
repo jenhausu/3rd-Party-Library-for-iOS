@@ -217,6 +217,9 @@
 ## Location
 * [INTULocationManager](https://github.com/intuit/LocationManager) : INTULocationManager makes it easy to get the device's current location on iOS. 
 
+## Touch & Gesture
+* [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) : Lightweight touch visualization library in Swift. A single line of code and visualize your touches!
+
 ## Debug
 * [Alpha](https://github.com/Legoless/Alpha) : An in-app debugging and exploration tool for iOS
 
