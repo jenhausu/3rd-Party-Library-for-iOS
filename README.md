@@ -114,6 +114,7 @@
 * [SingleLineShakeAnimation](https://github.com/haaakon/SingleLineShakeAnimation) : Shake a view with a single line of code with a non-intrusive extension for UIView, written in Swift.
 * [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) : Easy to read and write chainable animations in Objective-C
 * [JazzHands](https://github.com/IFTTT/JazzHands) : A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros.
+* [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) : Easy to read and write chainable animations in Swift
 
 ## Effect
 * [Shimmer](https://github.com/facebook/Shimmer) : An easy way to add a simple, shimmering effect to any view in an iOS app.
@@ -131,6 +132,7 @@
 * [AnimatedTransitionGallery](https://github.com/shu223/AnimatedTransitionGallery) : Collection of iOS 7 custom animated transitions using UIViewControllerAnimatedTransitioning protocol.
 * [PaperFold-for-iOS](https://github.com/honcheng/PaperFold-for-iOS) : Paper folding animation for iOS.
 * [JVTransitionAnimator](https://github.com/JV17/JVTransitionAnimator) : A simple transition animator which allows you to perform custom animation when presenting an UIViewController.
+* [BubbleTransition](https://github.com/andreamazz/BubbleTransition) : A custom modal transition that presents and dismiss a controller with an expanding bubble effect.
 
 ## Chart
 ### Line
@@ -206,6 +208,9 @@
 ### Synchronize
 * [TICoreDataSync](https://github.com/nothirst/TICoreDataSync) : Automatic synchronization for Core Data apps, between any combination of Mac OS X and iOS: Mac to iPhone to iPad to iPod touch and back again.
 
+### Asynchronous
+* [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) : Asynchronous socket networking library for Mac and iOS
+
 ### Backend
 * [DataKit](https://github.com/eaigner/DataKit) : DataKit makes it easy to add web backends to your apps!
 
@@ -270,3 +275,4 @@
 * [What-s-New](https://github.com/mdznr/What-s-New) : Easily present the latest changes and features to your users on app updates.
 * [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) : This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.
 * [SSKeychain](https://github.com/soffes/sskeychain) : SSKeychain is a simple wrapper for accessing accounts, getting passwords, setting passwords, and deleting passwords using the system Keychain on Mac OS X and iOS.
+* [SCStackViewController](https://github.com/stefanceriu/SCStackViewController) : SCStackViewController is a container view controller which allows you to stack other view controllers on the top/left/bottom/right of the root and build custom transitions between them while providing correct physics and appearance calls.
