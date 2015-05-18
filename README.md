@@ -38,6 +38,8 @@
 * [FontBlaster](https://github.com/ArtSabintsev/FontBlaster) : Programmatically load custom fonts into your iOS app.
 * [Motif](https://github.com/erichoracek/Motif) : A lightweight and customizable JSON stylesheet framework for iOS
 * [RNThemeManager](https://github.com/rnystrom/RNThemeManager) : Easily manage themes and respond to theme changes by updating views in real time.
+* [SSBouncyButton](https://github.com/StyleShare/SSBouncyButton) : iOS7-style bouncy button.
+* [MaterialKit](https://github.com/nghialv/MaterialKit) : Material design components for iOS written in Swift
 
 ## Color
 * [MPColorTools](https://github.com/marzapower/MPColorTools) : A collection of tools for handling colors on iOS SDK
@@ -61,7 +63,6 @@
 * [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) : An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
 * [SAMBadgeView](https://github.com/soffes/SAMBadgeView) : A simple badge view that acts very much like the badges in Mail App.
 
-
 ### Menu
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) : Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.
 * [RNFrostedSidebar](https://github.com/rnystrom/RNFrostedSidebar) : A Control Center-esque control with blurred background and toggle animations.
@@ -80,6 +81,7 @@
 * [YRSideViewController](https://github.com/YueRuo/YRSideViewController) : Simple side viewController for iOS
 * [SWRevealViewController](https://github.com/John-Lluch/SWRevealViewController) : A UIViewController subclass for presenting side view controllers inspired on the FaceBook and Wunderlist apps, done right !
 * [KGFloatingDrawer](https://github.com/KyleGoddard/KGFloatingDrawer) : A floating navigation drawer with an interesting animated presentation written in Swift.
+* [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) : A simple side menu for iOS 7/8 written in Swift.
 
 ### UICollectionView
 * [ARCollectionViewMasonryLayout](https://github.com/ashfurrow/ARCollectionViewMasonryLayout) : ARCollectionViewMasonryLayout is a UICollectionViewLayout subclass for creating flow-like layouts with dynamic widths or heights.
@@ -89,9 +91,12 @@
 
 ### Segment Control
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) : A drop-in replacement for UISegmentedControl mimicking the style of the segmented control used in Google Currents and various other Google products.
+* [ARSegmentPager](https://github.com/AugustRush/ARSegmentPager) :segment tab controller with parallax Header
+
 
 ### PageViewController
 * [GUITabPagerViewController](https://github.com/guilhermearaujo/GUITabPagerViewController) : PageViewController with a Tab Bar Controller on the top
+* [PagingMenuController](https://github.com/kitasuke/PagingMenuController) : Paging view controller with customizable menu
 
 ### NavigationBar & HeaderBar
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) : Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
@@ -199,10 +204,14 @@
 * [SSDataKit](https://github.com/soffes/ssdatakit) : Eliminate your Core Data boilerplate code.
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) : A swifter Core Data stack
 * [Core-Data-Editor](https://github.com/ChristianKienle/Core-Data-Editor) : Core Data Editor lets you easily view, edit and analyze applications‘ data. 
+* [ARCoreData](https://github.com/AugustRush/ARCoreData) : ARCoreData is a library to make CoreData easily.
 
 ### JSON
 * [Sync](https://github.com/hyperoslo/Sync) : Modern JSON synchronization to Core Data
 * [Genome](https://github.com/LoganWright/Genome) : This library is meant to simplify the process of mapping JSON to models by providing a clean and flexible API that binds mapping to their models.
+* [JSONKit](https://github.com/johnezang/JSONKit) : (warning! This project hasn't update for three years. So I'm not sure this is a good library or not.)
+* [Himotoki](https://github.com/ikesyo/Himotoki) : A yet another JSON decoding library purely written in Swift
+* [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) : The better way to deal with JSON data in Swift
 
 ### Search
 * [SNRSearchIndex](https://github.com/indragiek/SNRSearchIndex) : SNRSearchIndex is a simple wrapper for the SearchKit framework that is specifically focused around providing lightning fast search for Core Data databases.
@@ -238,15 +247,21 @@
 * [XLTestLog](https://github.com/xareelee/XLTestLog) : Styling and coloring your XCTest logs on Xcode Console
 * [KIF](https://github.com/kif-framework/KIF) : Keep It Functional - An iOS Functional Testing Framework
 
+## Log
+* [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) : CleanroomLogger provides an extensible Swift-based logging API that is simple, lightweight and performant
+* [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) : A fast & simple, yet powerful & flexible logging framework for Mac and iOS
+* [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) : A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number.
+
+
 ## Apple Push Notification Service
 * [NWPusher](https://github.com/noodlewerk/NWPusher) : OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
 
 ## Tools
 * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) : Xcode plug-in which helps you write Javadoc style documents easier.
-2. [Nimbus](https://github.com/jverkoey/nimbus) : Nimbus is a toolkit for experienced iOS software designers. It provides well-documented, modular components that solve a number of common iOS software requirements. This includes: a rich text label with hyperlinks; a web view controller; a simple approach to table models, radio groups, and table actions; standardized interapp communication, and powerful debugging tools, amongst many other features.
-3. [FLEX](https://github.com/Flipboard/FLEX) : FLEX (Flipboard Explorer) is a set of in-app debugging and exploration tools for iOS development. 
-4. [Tweaks](https://github.com/facebook/Tweaks) : An easy way to fine-tune, and adjust parameters for iOS apps in development.
-5. [JSONKit](https://github.com/johnezang/JSONKit) : (warning! This project hasn't update for three years. So I'm not sure this is a good library or not.)
+* [Nimbus](https://github.com/jverkoey/nimbus) : Nimbus is a toolkit for experienced iOS software designers. It provides well-documented, modular components that solve a number of common iOS software requirements. This includes: a rich text label with hyperlinks; a web view controller; a simple approach to table models, radio groups, and table actions; standardized interapp communication, and powerful debugging tools, amongst many other features.
+* [FLEX](https://github.com/Flipboard/FLEX) : FLEX (Flipboard Explorer) is a set of in-app debugging and exploration tools for iOS development. 
+* [Tweaks](https://github.com/facebook/Tweaks) : An easy way to fine-tune, and adjust parameters for iOS apps in development.
+
 
 ## Snippets
 * [XcodeSwiftSnippets](https://github.com/burczyk/XcodeSwiftSnippets) : Swift code snippets for Xcode
@@ -293,3 +308,5 @@
 * [SSKeychain](https://github.com/soffes/sskeychain) : SSKeychain is a simple wrapper for accessing accounts, getting passwords, setting passwords, and deleting passwords using the system Keychain on Mac OS X and iOS.
 * [SCStackViewController](https://github.com/stefanceriu/SCStackViewController) : SCStackViewController is a container view controller which allows you to stack other view controllers on the top/left/bottom/right of the root and build custom transitions between them while providing correct physics and appearance calls.
 * [NMRangeSlider](https://github.com/muZZkat/NMRangeSlider) : A custom range slider for iOS
+* [SwiftQRCode](https://github.com/liufan321/SwiftQRCode) : Simple QRCode detector and generator in Swift
+* [Prephirences](https://github.com/phimage/Prephirences) : Prephirences is a Swift library that provides useful protocols and convenience methods to manage application preferences, configurations and app-state.
