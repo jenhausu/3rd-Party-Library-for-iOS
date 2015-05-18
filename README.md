@@ -148,6 +148,8 @@
 * [MDRotatingPieChart](https://github.com/maxday/MDRotatingPieChart) : An iOS library to draw beautiful pie charts
 * [VBPieChart](https://github.com/sakrist/VBPieChart) : Pie Chart iOS control with different animations to present.
 * [CSCoverageChart](https://github.com/common-sense/CSCoverageChart) : Pie chart with multiple slices at even angles, each slice can have different radius. Useful when displaying coverage data.
+* [Chartreuse](https://github.com/dainkaplan/Chartreuse) : Pie charts for iOS! 
+* [PieChart](https://github.com/pavanpodila/PieChart) : Animated Pie Chart using Custom CALayer
 
 ### Others Chart
 * [JBChartView](https://github.com/Jawbone/JBChartView) : iOS-based charting library for both line and bar graphs.
@@ -155,6 +157,7 @@
 * [PNChart](https://github.com/kevinzhow/PNChart) : A simple and beautiful chart lib used in Piner and CoinsMan for iOS. ([Swift ver.](https://github.com/kevinzhow/PNChart-Swift))
 * [i-schuetz/SwiftCharts](https://github.com/i-schuetz/SwiftCharts) : Layers based charts library for iOS
 * [SwiftGraphics](https://github.com/schwa/SwiftGraphics) : Wrap Quartz (and other related Frameworks such as CoreImage) in a nice "Swifthonic" API. Provide wrappers and operators to help make working with graphics primitives in swift as convenient as possible.
+* [JYRadarChart](https://github.com/johnnywjy/JYRadarChart) : An iOS open source Radar Chart implementation.
 
 ## Storyboard
 * [StoryboardXibController](https://github.com/Codecademy/StoryboardXibController) : A View Controller for loading Xibs from your Storyboards
@@ -165,6 +168,7 @@
 * [SSPullToRefresh](https://github.com/soffes/sspulltorefresh) : Simple and highly customizable pull to refresh view.
 * [XHRefreshControl](https://github.com/xhzengAIB/XHRefreshControl) : XHRefreshControl 是一款高扩展性、低耦合度的下拉刷新、上提加载更多的组件。
 * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) : Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code.
+* [PathCover](https://github.com/JackTeam/PathCover) : PathCover is pull down refresh and a parallax/zooming top view with real time blur effect to any UITableView, inspired by Path for iOS.
 
 ## Notification
 * [CRToast](https://github.com/cruffenach/CRToast) : CRToast is a library that allows you to easily create notifications that appear on top of or by pushing out the status bar or navigation bar.
@@ -187,6 +191,7 @@
 * [fmdb](https://github.com/ccgus/fmdb) : A Cocoa / Objective-C wrapper around SQLite.
 * [TMCache](https://github.com/tumblr/TMCache) : Fast parallel object cache for iOS and OS X.
 * [Realm](https://github.com/realm/realm-cocoa) : Realm is a mobile database: a replacement for Core Data & SQLite 
+* [SQLight](https://github.com/gaosboy/SQLight) : SQLite封装，让SQLite操作简单的就像NSUserDefaults一样
 
 ### Core Data
 * [SSDataKit](https://github.com/soffes/ssdatakit) : Eliminate your Core Data boilerplate code.
@@ -215,6 +220,7 @@
 
 ### Backend
 * [DataKit](https://github.com/eaigner/DataKit) : DataKit makes it easy to add web backends to your apps!
+* [MPOAuth](https://github.com/thekarladam/MPOAuth) : With MPOAuthConnection, all the work of talking to secure web services is taken care of for you so you only have to focus on how you want to use the data the remote web service provides.
 
 ## Location
 * [INTULocationManager](https://github.com/intuit/LocationManager) : INTULocationManager makes it easy to get the device's current location on iOS. 
@@ -281,3 +287,5 @@
 * [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) : This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.
 * [SSKeychain](https://github.com/soffes/sskeychain) : SSKeychain is a simple wrapper for accessing accounts, getting passwords, setting passwords, and deleting passwords using the system Keychain on Mac OS X and iOS.
 * [SCStackViewController](https://github.com/stefanceriu/SCStackViewController) : SCStackViewController is a container view controller which allows you to stack other view controllers on the top/left/bottom/right of the root and build custom transitions between them while providing correct physics and appearance calls.
+* [JOTextField](https://github.com/lojals/JOTextField) : Custom version of UITextField
+* [NMRangeSlider](https://github.com/muZZkat/NMRangeSlider) : A custom range slider for iOS
