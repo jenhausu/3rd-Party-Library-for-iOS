@@ -234,6 +234,7 @@
 ## Testing
 * [Remote - Control your iPhone from Xcode](https://github.com/johnno1962/Remote) : "Remote" is a plugin for Xcode that allows you to control an iPhone from a window on your Mac during development. Originally created to avoid having to pick up a device during testing you can record "macros" of device touches and replay them. It will also compare the resulting screen output against a snapshot for end-to-end testing. The Macro log is an editable WebView that can be modified at will. Finally, you can now record and save all display output into a quicktime movie.
 * [XLTestLog](https://github.com/xareelee/XLTestLog) : Styling and coloring your XCTest logs on Xcode Console
+* [KIF](https://github.com/kif-framework/KIF) : Keep It Functional - An iOS Functional Testing Framework
 
 ## Apple Push Notification Service
 * [NWPusher](https://github.com/noodlewerk/NWPusher) : OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
@@ -261,6 +262,10 @@
 * [SYKeyboardTextField](https://github.com/441088327/SYKeyboardTextField) : SYKeyboardTextField 是一个轻巧,简单,非侵入式的键盘附随输入框! 在输入框高度定位方面借鉴了出名的开源库 SlackTextViewController 不过相对于 SlackTextViewController . SYKeyboardTextField 是一个轻量型的,即插即拔的实现方式.
 * [Tasty Imitation Keyboard](https://github.com/archagon/tasty-imitation-keyboard) : A custom keyboard for iOS8 that serves as a tasty imitation of the default Apple keyboard. Built using Swift and the latest Apple technologies!
 
+## TextField
+* [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) : UITextField subclass with floating labels - inspired by Matt D. Smith's design:
+* [JOTextField](https://github.com/lojals/JOTextField) : Custom version of UITextField
+
 ## Audio
 * [RecordAndPlayVoice](https://github.com/liuchunlao/RecordAndPlayVoice) : 模仿微信的录音和播放功能，在录音的时候检测音量调整图片，可以实现录音、播放、及删除录音文件功能。
 
@@ -287,5 +292,4 @@
 * [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) : This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.
 * [SSKeychain](https://github.com/soffes/sskeychain) : SSKeychain is a simple wrapper for accessing accounts, getting passwords, setting passwords, and deleting passwords using the system Keychain on Mac OS X and iOS.
 * [SCStackViewController](https://github.com/stefanceriu/SCStackViewController) : SCStackViewController is a container view controller which allows you to stack other view controllers on the top/left/bottom/right of the root and build custom transitions between them while providing correct physics and appearance calls.
-* [JOTextField](https://github.com/lojals/JOTextField) : Custom version of UITextField
 * [NMRangeSlider](https://github.com/muZZkat/NMRangeSlider) : A custom range slider for iOS
