@@ -72,16 +72,19 @@
 * [DOPDropDownMenu](https://github.com/dopcn/DOPDropDownMenu) : Drop down menu like we see on website for iPhone
 
 ### Side ViewController
+#### 一般
 * [MSDynamicsDrawerViewController](https://github.com/erichoracek/MSDynamicsDrawerViewController) : Container view controller that leverages UIKit Dynamics to provide a realistic drawer navigation paradigm.
-* [RESideMenu](https://github.com/romaonthego/RESideMenu) : iOS 7/8 style side menu with parallax effect.
 * [ECSlidingViewController](https://github.com/ECSlidingViewController/ECSlidingViewController) : Customizable sliding view controller container. Supports all screen sizes and orientations.
 * [MMDrawerController](https://github.com/mutualmobile/MMDrawerController) : A lightweight, easy to use, Side Drawer Navigation Controller.
 * [ViewDeck](https://github.com/Inferis/ViewDeck) : An implementation of the sliding functionality found in the Path 2.0 or Facebook iOS apps.
+* [SWRevealViewController](https://github.com/John-Lluch/SWRevealViewController) : A UIViewController subclass for presenting side view controllers inspired on the FaceBook and Wunderlist apps, done right !
+* [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) : A simple side menu for iOS 7/8 written in Swift.
+
+#### 有縮放
+* [KGFloatingDrawer](https://github.com/KyleGoddard/KGFloatingDrawer) : A floating navigation drawer with an interesting animated presentation written in Swift.
+* [RESideMenu](https://github.com/romaonthego/RESideMenu) : iOS 7/8 style side menu with parallax effect.
 * [SwiftSideslipLikeQQ](https://github.com/johnlui/SwiftSideslipLikeQQ) : 再造 “手机QQ” 侧滑菜单
 * [YRSideViewController](https://github.com/YueRuo/YRSideViewController) : Simple side viewController for iOS
-* [SWRevealViewController](https://github.com/John-Lluch/SWRevealViewController) : A UIViewController subclass for presenting side view controllers inspired on the FaceBook and Wunderlist apps, done right !
-* [KGFloatingDrawer](https://github.com/KyleGoddard/KGFloatingDrawer) : A floating navigation drawer with an interesting animated presentation written in Swift.
-* [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) : A simple side menu for iOS 7/8 written in Swift.
 
 ### UICollectionView
 * [ARCollectionViewMasonryLayout](https://github.com/ashfurrow/ARCollectionViewMasonryLayout) : ARCollectionViewMasonryLayout is a UICollectionViewLayout subclass for creating flow-like layouts with dynamic widths or heights.
