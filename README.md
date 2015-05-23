@@ -117,8 +117,11 @@
 * [JBWatchActivityIndicator](https://github.com/mikeswanson/JBWatchActivityIndicator) : An easy way to generate activity indicator images for Apple Watch
 * [DKNightVersion](https://github.com/Draveness/DKNightVersion) : DKNightVersion is a lightweight iOS framework adding night mode to your iOS app.
 * [KYCircularProgress](https://github.com/kentya6/KYCircularProgress) : Flexible progress bar written in Swift.
+* [PWParallaxScrollView](https://github.com/wpsteak/PWParallaxScrollView) : PWParallaxScrollView is a library for creating sliding menus with parallax effect inspired by the WWF app
+* [DaiNavigationTransition](https://github.com/DaidoujiChen/DaiNavigationTransition) : Idea from http://nonomori.farbox.com/post/ios-7-jiao-hu-shi-guo-du, and convert this transition effect more easier to use.
 
 ## Animation
+* [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) : A curated list of awesome iOS animation, including Objective-C and Swift libraries9
 * [pop](https://github.com/facebook/pop) : An extensible iOS and OS X animation library, useful for physics-based interactions.
 * [Canvas](https://github.com/CanvasPod/Canvas) : Animate in Xcode without code
 * [Popping](https://github.com/schneiderandre/popping) : A collection of animation examples for iOS apps.
@@ -147,6 +150,7 @@
 * [BubbleTransition](https://github.com/andreamazz/BubbleTransition) : A custom modal transition that presents and dismiss a controller with an expanding bubble effect.
 
 ## Chart
+[awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) : A curated list of awesome iOS chart libraries, including Objective-C and Swift
 ### Line
 * [BEMSimpleLineGraph](https://github.com/Boris-Em/BEMSimpleLineGraph) : Elegant Line Graphs for iOS.
 
@@ -225,6 +229,8 @@
 * [AFNetworking-PromiseKit](https://github.com/csotiriou/AFNetworking-PromiseKit) : PromiseKit+AFNetworking is a small category addition to the delightful PromiseKit, enabling it to work with AFNetworking.
 * [ASIHTTPRequest](https://github.com/pokeb/asi-http-request) : ASIHTTPRequest is an easy to use wrapper around the CFNetwork API that makes some of the more tedious aspects of communicating with web servers easier.
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) : Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
+* [CocoaSSDP](https://github.com/sboisson/CocoaSSDP) : Simple Service Discovery Protocol client library for Mac and iOS.
+
 
 ### Synchronize
 * [TICoreDataSync](https://github.com/nothirst/TICoreDataSync) : Automatic synchronization for Core Data apps, between any combination of Mac OS X and iOS: Mac to iPhone to iPad to iPod touch and back again.
@@ -258,6 +264,7 @@
 
 ## Apple Push Notification Service
 * [NWPusher](https://github.com/noodlewerk/NWPusher) : OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
+* [node-apn](https://github.com/argon/node-apn) : Apple Push Notification module for Node.js
 
 ## Tools
 * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) : Xcode plug-in which helps you write Javadoc style documents easier.
@@ -313,3 +320,5 @@
 * [NMRangeSlider](https://github.com/muZZkat/NMRangeSlider) : A custom range slider for iOS
 * [SwiftQRCode](https://github.com/liufan321/SwiftQRCode) : Simple QRCode detector and generator in Swift
 * [Prephirences](https://github.com/phimage/Prephirences) : Prephirences is a Swift library that provides useful protocols and convenience methods to manage application preferences, configurations and app-state.
+* [KVOMutableArray](An NSMutableArray which can be key value observed (KVO)) : https://github.com/haifengkao/KVOMutableArray
+* [ReflectableEnum](https://github.com/fastred/ReflectableEnum) : Reflection for enumerations in Objective-C.
