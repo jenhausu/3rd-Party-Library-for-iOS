@@ -140,7 +140,7 @@
 * [TwitterCover](https://github.com/cyndibaby905/TwitterCover) : TwitterCover is a parallax top view with real time blur effect to any UIScrollView, inspired by Twitter for iOS.
 * [Organic](https://github.com/mamaral/Organic) : The intuitive UITableViewController.
 * [RPSlidingMenu](https://github.com/RobotsAndPencils/RPSlidingMenu) : A collection view menu in the style of UltraVisual.
-
+* [VAProgressCircle](https://github.com/MitchellMalleo/VAProgressCircle) : iOS custom UIView for loading content
 
 ## Animation
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) : A curated list of awesome iOS animation, including Objective-C and Swift libraries9
@@ -159,6 +159,7 @@
 * [Shimmer](https://github.com/facebook/Shimmer) : An easy way to add a simple, shimmering effect to any view in an iOS app.
 * [WZFlashButton](https://github.com/SatanWoo/WZFlashButton) : A button with flash-like effect
 * [Twinkle](https://github.com/piemonte/Twinkle) : a Swift and easy way to make elements in your iOS app twinkle
+* [RubberBandEffect](https://github.com/Produkt/RubberBandEffect) : Recreating Apple’s rubber band effect in Swift
 
 ### Blur
 * [UIImage-BlurredFrame](https://github.com/Adrian2112/UIImage-BlurredFrame) : UIImage category that blurs an specified frame of a UIImage
@@ -173,6 +174,10 @@
 * [PaperFold-for-iOS](https://github.com/honcheng/PaperFold-for-iOS) : Paper folding animation for iOS.
 * [JVTransitionAnimator](https://github.com/JV17/JVTransitionAnimator) : A simple transition animator which allows you to perform custom animation when presenting an UIViewController.
 * [BubbleTransition](https://github.com/andreamazz/BubbleTransition) : A custom modal transition that presents and dismiss a controller with an expanding bubble effect.
+* [ZoomTransition](https://github.com/tristanhimmelman/ZoomTransition) : Interactive zoom transition for presenting view controllers written in Swift
+* [DDHDynamicViewControllerTransitions](https://github.com/dasdom/DDHDynamicViewControllerTransitions) : Custom view controller transitions using UIDynamic behaviors.
+* [DDHCustomTransition](https://github.com/dasdom/DDHCustomTransition) : Helper classes to make basic view controller transitions easier
+
 
 ## Chart
 [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) : A curated list of awesome iOS chart libraries, including Objective-C and Swift
@@ -251,8 +256,12 @@
 * [JSONKit](https://github.com/johnezang/JSONKit) : (warning! This project hasn't update for three years. So I'm not sure this is a good library or not.)
 * [Himotoki](https://github.com/ikesyo/Himotoki) : A yet another JSON decoding library purely written in Swift
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) : The better way to deal with JSON data in Swift
+* [yaml.swift](https://github.com/behrang/yaml.swift) : Load YAML and JSON documents using Swift
 
-### Search
+### Others
+* [SWXMLHash](https://github.com/drmohundro/SWXMLHash) : Simple XML parsing in Swift
+
+## Search
 * [SNRSearchIndex](https://github.com/indragiek/SNRSearchIndex) : SNRSearchIndex is a simple wrapper for the SearchKit framework that is specifically focused around providing lightning fast search for Core Data databases.
 
 ## Internet
@@ -280,6 +289,7 @@
 
 ## Touch & Gesture
 * [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) : Lightweight touch visualization library in Swift. A single line of code and visualize your touches!
+* [SloppySwiper](https://github.com/fastred/SloppySwiper) : UINavigationController delegate that allows swipe back gesture to be started from anywhere on the screen (not just from the edge).
 
 ## Debug
 * [Alpha](https://github.com/Legoless/Alpha) : An in-app debugging and exploration tool for iOS
@@ -288,6 +298,7 @@
 * [Remote - Control your iPhone from Xcode](https://github.com/johnno1962/Remote) : "Remote" is a plugin for Xcode that allows you to control an iPhone from a window on your Mac during development. Originally created to avoid having to pick up a device during testing you can record "macros" of device touches and replay them. It will also compare the resulting screen output against a snapshot for end-to-end testing. The Macro log is an editable WebView that can be modified at will. Finally, you can now record and save all display output into a quicktime movie.
 * [XLTestLog](https://github.com/xareelee/XLTestLog) : Styling and coloring your XCTest logs on Xcode Console
 * [KIF](https://github.com/kif-framework/KIF) : Keep It Functional - An iOS Functional Testing Framework
+* [slather](https://github.com/venmo/slather) : Generate test coverage reports for Xcode projects & hook it into CI.
 
 ## Log
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) : CleanroomLogger provides an extensible Swift-based logging API that is simple, lightweight and performant
@@ -335,6 +346,7 @@
 ### Image & Photo
 * [NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer) : NYTPhotoViewer is a slideshow and image viewer that includes double tap to zoom, captions, support for multiple images, interactive flick to dismiss, animated zooming presentation, and more.
 * [CTAssetsPickerController](https://github.com/chiunam/CTAssetsPickerController) : iOS control that allows picking multiple photos and videos from user's photo library.
+* [Toucan](https://github.com/gavinbunney/Toucan) : Fabulous Image Processing in Swift
 
 ### Vedio
 * [PBJVision](https://github.com/piemonte/PBJVision) : iOS camera engine, features touch-to-record video, slow motion video, and photo capture
@@ -345,6 +357,7 @@
 ## Encryption
 * [RNCryptor](https://github.com/RNCryptor/RNCryptor) : CCCryptor (AES encryption) wrappers for iOS and Mac.
 * [CPAProxy](https://github.com/ursachec/CPAProxy) : CPAProxy is an Objective-C library that eases the use of Tor on iOS. 
+* [ChatSecure-iOS](https://github.com/ChatSecure/ChatSecure-iOS) : ChatSecure is a free and open source encrypted chat client for iPhone and Android that supports OTR encryption over XMPP. 
 
 ## Payment
 * [PaymentKit](https://github.com/stripe/PaymentKit) : Easily accept payments on iOS
@@ -353,6 +366,10 @@
 ## Code
 * [ReflectableEnum](https://github.com/fastred/ReflectableEnum) : Reflection for enumerations in Objective-C.
 * [FormatterKit](https://github.com/mattt/FormatterKit) : `stringWithFormat:` for the sophisticated hacker set
+
+## Wrap Apple's API
+* [CargoBay](https://github.com/mattt/CargoBay) : The Essential StoreKit Companion
+* [HealthKit-Swift](https://github.com/Darktt/HealthKit-Swift) : Apple HealthKit sample code fit swift version.
 
 ## Custom datePicker
 * [MWDatePicker](https://github.com/mwermuth/MWDatePicker) : Customize the good ol' UIDatePicker
@@ -377,3 +394,5 @@
 * [SCRecorder](https://github.com/rFlex/SCRecorder) : iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing
 * [HCSStarRatingView](https://github.com/hugocampossousa/HCSStarRatingView) : Simple star rating view for iOS written in Objective-C
 * [BEMAnalogClock](https://github.com/Boris-Em/BEMAnalogClock) : iOS library to create elegant, interactive clocks.
+* [JSQWebViewController](https://github.com/jessesquires/JSQWebViewController) : A lightweight Swift WebKit view controller for iOS
+* [iBeacon-Demo](https://github.com/Darktt/iBeacon-Demo) : iBeacon demo in Swift
