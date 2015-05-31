@@ -67,6 +67,7 @@
 * [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell) : An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
 * [SAMBadgeView](https://github.com/soffes/SAMBadgeView) : A simple badge view that acts very much like the badges in Mail App.
 * [SESlideTableViewCell](https://github.com/spaceelephant/SESlideTableViewCell) : a subclass of UITableViewCell which shows buttons with a swipe gesture
+* [MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell) : An easy to use UITableViewCell subclass that allows to display swippable buttons with a variety of transitions.
 
 ### Menu
 * [GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) : Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.
@@ -105,6 +106,7 @@
 * [DaiExpandCollectionView](https://github.com/DaidoujiChen/DaiExpandCollectionView) : Expand the current selected item. Focus the user's eyes.
 * [CollectionViewWaterfallLayout](https://github.com/ecerney/CollectionViewWaterfallLayout) : Pinterest inspired layout for UICollectionViews
 * [PBJHexagon](https://github.com/piemonte/PBJHexagon) : iOS hexagon grid layout for UICollectionViews
+* [PDKTStickySectionHeadersCollectionViewLayout](https://github.com/Produkt/PDKTStickySectionHeadersCollectionViewLayout) : UICollectionView Layout that makes section headers behave like UITableView section headers.
 
 ### Segment Control
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) : A drop-in replacement for UISegmentedControl mimicking the style of the segmented control used in Google Currents and various other Google products.
@@ -114,6 +116,7 @@
 ### PageViewController
 * [GUITabPagerViewController](https://github.com/guilhermearaujo/GUITabPagerViewController) : PageViewController with a Tab Bar Controller on the top
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) : Paging view controller with customizable menu
+* [MMScrollPresenter](https://github.com/MitchellMalleo/MMScrollPresenter) : iOS Custom UIScrollView Control for paging UIViews
 
 ### NavigationBar & HeaderBar
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) : Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
@@ -167,6 +170,7 @@
 * [DynamicBlurView](https://github.com/KyoheiG3/DynamicBlurView) : DynamicBlurView is a dynamic and high performance UIView subclass for Blur.
 * [FXBlurView](https://github.com/nicklockwood/FXBlurView) : UIView subclass that replicates the iOS 7 realtime background blur effect, but works on iOS 5 and above.
 * [GradientView](https://github.com/soffes/GradientView) : Easily use gradients in UIKit.
+* [UIView-Blur](https://github.com/mikeMTOL/UIView-Blur) : Add a dynamic blur effect to any UIView
 
 ## Transition
 * [VCTransitionsLibrary](https://github.com/ColinEberhardt/VCTransitionsLibrary) : A collection of iOS 7 animation controllers and interaction controllers, providing flip, fold and all kinds of other transitions.
@@ -227,6 +231,10 @@
 * [TSMessages](https://github.com/KrauseFx/TSMessages) :This library provides an easy to use class to show little notification views on the top of the screen.
 * [NZAlertView](https://github.com/NZN/NZAlertView) : Simple and intuitive alert view. Similar to push notification effect.
 
+## Badge
+* [UIBarButtonItem-Badge](https://github.com/mikeMTOL/UIBarButtonItem-Badge) : UIBarButtonItem + Badge
+* [RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub) : Make any UIView a full fledged notification center
+
 ## Auto Layout
 * [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) : UIView category which makes it easy to create layout constraints in code
 * [PureLayout](https://github.com/smileyborg/PureLayout) : The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
@@ -257,6 +265,10 @@
 * [Himotoki](https://github.com/ikesyo/Himotoki) : A yet another JSON decoding library purely written in Swift
 * [SwiftyJSON](https://github.com/SwiftyJSON/SwiftyJSON) : The better way to deal with JSON data in Swift
 * [yaml.swift](https://github.com/behrang/yaml.swift) : Load YAML and JSON documents using Swift
+* [JSONModel](https://github.com/icanzilb/JSONModel) : Magical Data Modelling Framework for JSON. Create rapidly powerful, atomic and smart data model classes
+* [Argo](https://github.com/thoughtbot/Argo) : Functional JSON parsing library for Swift
+* [MJExtension](https://github.com/CoderMJLee/MJExtension) : he fastest, most convenient and most nonintrusive conversion between JSON and model. Your model class don't need to extend another base class. You don't need to modify any model file. Nonintrusive, convenient.
+* [EasyMapping](https://github.com/EasyMapping/EasyMapping) : An easy way to unmarshall a Dictionary of attributes (which came from JSON, XML or just a NSDictionary) into a Class and vice versa.
 
 ### Others
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) : Simple XML parsing in Swift
@@ -273,6 +285,7 @@
 * [CocoaSSDP](https://github.com/sboisson/CocoaSSDP) : Simple Service Discovery Protocol client library for Mac and iOS.
 * [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) : An XMPP Framework in Objective-C for Mac and iOS
 * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) : A high performance WebSocket client library for Swift.
+* [MMBarricade](https://github.com/mutualmobile/MMBarricade) : MMBarricade is a framework for setting up a run-time configurable local server in iOS apps.
 
 ### Synchronize
 * [TICoreDataSync](https://github.com/nothirst/TICoreDataSync) : Automatic synchronization for Core Data apps, between any combination of Mac OS X and iOS: Mac to iPhone to iPad to iPod touch and back again.
@@ -309,6 +322,8 @@
 ## Apple Push Notification Service
 * [NWPusher](https://github.com/noodlewerk/NWPusher) : OS X and iOS application and framework to play with the Apple Push Notification service (APNs)
 * [node-apn](https://github.com/argon/node-apn) : Apple Push Notification module for Node.js
+* [Houston](https://github.com/nomad/houston) : Houston is a simple gem for sending Apple Push Notifications. Pass your credentials, construct your message, and send it.
+* [Orbiter](https://github.com/mattt/Orbiter) : Orbiter is a small library that provides simple interfaces to register (and unregister) for Push Notifications with Urban Airship (without needing to include their SDK), as well as Helios apps.
 
 ## Tools
 * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) : Xcode plug-in which helps you write Javadoc style documents easier.
@@ -323,10 +338,10 @@
 
 ## Message
 * [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) : 這應該是做 Messages 最大的 Library
-2. [SOMessaging](https://github.com/SocialObjects-Software/SOMessaging) : This is a simple library to easily create a messaging app with smooth animations.
-3. [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) : An IM App like WeChat App has to send text, pictures, audio, video, location messaging, managing local address book, share a circle of friends, drifting friends, shake a fun and more interesting features.
-5. [Atlas-iOS](https://github.com/layerhq/Atlas-iOS) : Atlas is a library of native iOS communications user interface components for Layer.
-6. [SSMessagesViewController](https://github.com/soffes/ssmessagesviewcontroller) : iOS Messages.app style table view controller
+* [SOMessaging](https://github.com/SocialObjects-Software/SOMessaging) : This is a simple library to easily create a messaging app with smooth animations.
+* [MessageDisplayKit](https://github.com/xhzengAIB/MessageDisplayKit) : An IM App like WeChat App has to send text, pictures, audio, video, location messaging, managing local address book, share a circle of friends, drifting friends, shake a fun and more interesting features.
+* [Atlas-iOS](https://github.com/layerhq/Atlas-iOS) : Atlas is a library of native iOS communications user interface components for Layer.
+* [SSMessagesViewController](https://github.com/soffes/ssmessagesviewcontroller) : iOS Messages.app style table view controller
 
 ## Keyboard
 * [SlackTextViewController](https://github.com/slackhq/SlackTextViewController) : A drop-in UIViewController subclass with a growing text input view and other useful messaging features.
@@ -336,6 +351,10 @@
 ## TextField
 * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) : UITextField subclass with floating labels - inspired by Matt D. Smith's design:
 * [JOTextField](https://github.com/lojals/JOTextField) : Custom version of UITextField
+* [MAFormViewController](https://github.com/mamaral/MAFormViewController) : MAFormViewController is designed to be used in tandem with MATextFieldCells for extremely quick and easy UITableView-based form creation that automatically handles the form configuration, formatting, navigation, validation, and submission.
+* [REFormattedNumberField](https://github.com/romaonthego/REFormattedNumberField) : UITextField subclass that allows numeric input in a predefined format.
+* [GrowingTextView](https://github.com/HansPinckaers/GrowingTextView) : An UITextView which grows/shrinks with the text and starts scrolling when the content reaches a certain number of lines.
+* [DDHTextView](https://github.com/dasdom/DDHTextView) : A UITextView subclass which let's you move the cursor with a pan gesture.
 
 ## MultiMedia
 * [SCWaveformView](https://github.com/rFlex/SCWaveformView) : A blazing fast customizable waveform view
@@ -347,6 +366,7 @@
 * [NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer) : NYTPhotoViewer is a slideshow and image viewer that includes double tap to zoom, captions, support for multiple images, interactive flick to dismiss, animated zooming presentation, and more.
 * [CTAssetsPickerController](https://github.com/chiunam/CTAssetsPickerController) : iOS control that allows picking multiple photos and videos from user's photo library.
 * [Toucan](https://github.com/gavinbunney/Toucan) : Fabulous Image Processing in Swift
+* [AFImageHelper](https://github.com/melvitax/AFImageHelper) : Convenience extension for UIImage and UIImageView in Swift
 
 ### Vedio
 * [PBJVision](https://github.com/piemonte/PBJVision) : iOS camera engine, features touch-to-record video, slow motion video, and photo capture
@@ -366,10 +386,12 @@
 ## Code
 * [ReflectableEnum](https://github.com/fastred/ReflectableEnum) : Reflection for enumerations in Objective-C.
 * [FormatterKit](https://github.com/mattt/FormatterKit) : `stringWithFormat:` for the sophisticated hacker set
+* [Ono](https://github.com/mattt/Ono) : A sensible way to deal with XML & HTML for iOS & OS X
 
 ## Wrap Apple's API
 * [CargoBay](https://github.com/mattt/CargoBay) : The Essential StoreKit Companion
 * [HealthKit-Swift](https://github.com/Darktt/HealthKit-Swift) : Apple HealthKit sample code fit swift version.
+* [JSDecoupledAppDelegate](https://github.com/JaviSoto/JSDecoupledAppDelegate) : UIApplicationDelegate class that separates the different responsibilities into more more reusable classes.
 
 ## Custom datePicker
 * [MWDatePicker](https://github.com/mwermuth/MWDatePicker) : Customize the good ol' UIDatePicker
@@ -388,7 +410,7 @@
 * [NMRangeSlider](https://github.com/muZZkat/NMRangeSlider) : A custom range slider for iOS
 * [SwiftQRCode](https://github.com/liufan321/SwiftQRCode) : Simple QRCode detector and generator in Swift
 * [Prephirences](https://github.com/phimage/Prephirences) : Prephirences is a Swift library that provides useful protocols and convenience methods to manage application preferences, configurations and app-state.
-* [KVOMutableArray](An NSMutableArray which can be key value observed (KVO)) : https://github.com/haifengkao/KVOMutableArray
+* [KVOMutableArray](https://github.com/haifengkao/KVOMutableArray) : An NSMutableArray which can be key value observed(KVO) 
 * [ReflectableEnum](https://github.com/fastred/ReflectableEnum) : Reflection for enumerations in Objective-C.
 * [M13PDFKit](https://github.com/Marxon13/M13PDFKit) : M13PDFKit is an iBooks like PDF viewer that can be embedded in iOS applications.
 * [SCRecorder](https://github.com/rFlex/SCRecorder) : iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing
@@ -396,3 +418,7 @@
 * [BEMAnalogClock](https://github.com/Boris-Em/BEMAnalogClock) : iOS library to create elegant, interactive clocks.
 * [JSQWebViewController](https://github.com/jessesquires/JSQWebViewController) : A lightweight Swift WebKit view controller for iOS
 * [iBeacon-Demo](https://github.com/Darktt/iBeacon-Demo) : iBeacon demo in Swift
+* [Surge](https://github.com/mattt/Surge) : Swift + Accelerate
+* [SkyLab](https://github.com/mattt/SkyLab) : Multivariate & A/B Testing for iOS and Mac
+* [FGTranslator](https://github.com/gpolak/FGTranslator) : A simple iOS library for Google & Bing translation APIs.
+* [JSQWebViewController](https://github.com/jessesquires/JSQWebViewController) : A lightweight Swift WebKit view controller for iOS
