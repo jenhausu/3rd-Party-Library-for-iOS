@@ -31,7 +31,9 @@
 - [Others](#others)
 
 ## UI
-[awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) : A curated list of awesome iOS UI/UX libraries.
+* [awesome-ios-ui](https://github.com/cjwirth/awesome-ios-ui) : A curated list of awesome iOS UI/UX libraries.
+* [CarbonKit](https://github.com/ermalkaleci/CarbonKit) : CarbonKit - OpenSource iOS UI library
+
 ### UI Design
 * [PrettyKit](https://github.com/vicpenap/PrettyKit) : PrettyKit for iOS is a small set of new widgets and UIKit subclasses that gives you a deeper UIKit customization. You will be able to change their background color, add gradients, shadows, etc.
 * [FlatUIKit](https://github.com/Grouper/FlatUIKit) : A collection of awesome flat UI components for iOS.
@@ -56,6 +58,7 @@
 * [SCLAlertView-Swift](https://github.com/vikmeup/SCLAlertView-Swift)
 * [PermissionScope](https://github.com/nickoneill/PermissionScope) : A Periscope-inspired way to ask for iOS permissions
 * [DLAlertView](https://github.com/regexident/DLAlertView) : UIAlertView replacement that can embed custom content views, is fully themable and let's you use a delegate and/or blocks.
+* [SweetAlert-iOS](https://github.com/codestergit/SweetAlert-iOS) : Live animated Alert View for iOS written in Swift
 
 ### UITableViewCell
 * [SwipeableCellView](https://github.com/xudafeng/SwipeableCellView) : An easy swipeable for Objective-C.
@@ -71,6 +74,9 @@
 * [PopMenu](https://github.com/xhzengAIB/PopMenu) : PopMenu is pop animation menu inspired by Sina weibo / NetEase app.
 * [KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu) : Gooey Effects 带粘性的扇形菜单
 * [DOPDropDownMenu](https://github.com/dopcn/DOPDropDownMenu) : Drop down menu like we see on website for iPhone
+* [DropdownMenu](https://github.com/nmattisson/DropdownMenu) : DropdownMenu is an iOS navigation controller using a Container View, storyboards and segues.
+* [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) : Folding Tab Bar and Tab Bar Controller
+
 
 ### Side ViewController
 #### 一般
@@ -86,6 +92,7 @@
 * [RESideMenu](https://github.com/romaonthego/RESideMenu) : iOS 7/8 style side menu with parallax effect.
 * [SwiftSideslipLikeQQ](https://github.com/johnlui/SwiftSideslipLikeQQ) : 再造 “手机QQ” 侧滑菜单
 * [YRSideViewController](https://github.com/YueRuo/YRSideViewController) : Simple side viewController for iOS
+* [PHAirViewController](https://github.com/TaPhuocHai/PHAirViewController) : Menu like airbnb app
 
 ### UICollectionView
 * [ARCollectionViewMasonryLayout](https://github.com/ashfurrow/ARCollectionViewMasonryLayout) : ARCollectionViewMasonryLayout is a UICollectionViewLayout subclass for creating flow-like layouts with dynamic widths or heights.
@@ -116,7 +123,6 @@
 * [CMPopTipView](https://github.com/chrismiles/CMPopTipView) : Custom UIView for iOS that pops up an animated "bubble" pointing at a button or other view. Useful for popup tips.
 * [VBFPopFlatButton](https://github.com/victorBaro/VBFPopFlatButton) : Flat button with 9 different states using POP.
 * [GMGridView](https://github.com/gmoledina/GMGridView) : A performant Grid-View for iOS (iPhone/iPad) that allows sorting of views with gestures (the user can move the items with his finger to sort them) and pinching/rotating/panning gestures allow the user to play with the view and toggle from the cellview to a fullsize display.
-* [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) : Folding Tab Bar and Tab Bar Controller
 * [YIPopupTextView](https://github.com/inamiy/YIPopupTextView) : facebook's post-like input text view for iOS.
 * [KNSemiModalViewController](https://github.com/kentnguyen/KNSemiModalViewController) : UIViewController+KNSemiModal is an effort to make a replica of semi-modal view with pushed-back stacked animation found in the beautiful Park Guides by National Geographic app. 
 * [iOS-Swift-Circular-Progress-View](https://github.com/wltrup/iOS-Swift-Circular-Progress-View) : A customisable Swift class for a progress view similar to what the Apple Watch has.
@@ -138,6 +144,7 @@
 * [JHChainableAnimations](https://github.com/jhurray/JHChainableAnimations) : Easy to read and write chainable animations in Objective-C
 * [JazzHands](https://github.com/IFTTT/JazzHands) : A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros.
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) : Easy to read and write chainable animations in Swift
+* [RubberBandEffect](https://github.com/Produkt/RubberBandEffect) : Recreating Apple’s rubber band effect in Swift
 
 ## Effect
 * [Shimmer](https://github.com/facebook/Shimmer) : An easy way to add a simple, shimmering effect to any view in an iOS app.
@@ -191,6 +198,7 @@
 * [XHRefreshControl](https://github.com/xhzengAIB/XHRefreshControl) : XHRefreshControl 是一款高扩展性、低耦合度的下拉刷新、上提加载更多的组件。
 * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) : Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code.
 * [PathCover](https://github.com/JackTeam/PathCover) : PathCover is pull down refresh and a parallax/zooming top view with real time blur effect to any UITableView, inspired by Path for iOS.
+* [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) : Custom animated pull-to-refresh that can be easily added to UIScrollView
 
 ## Notification
 * [CRToast](https://github.com/cruffenach/CRToast) : CRToast is a library that allows you to easily create notifications that appear on top of or by pushing out the status bar or navigation bar.
@@ -198,6 +206,8 @@
 * [YRDropdownView](https://github.com/onemightyroar/YRDropdownView) : iOS view library for displaying stylish alerts, warnings, & errors.
 * [JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification) : Easy, customizable notifications displayed on top of the statusbar.
 * [TSMessages](https://github.com/KrauseFx/TSMessages) :This library provides an easy to use class to show little notification views on the top of the screen.
+* [NZAlertView](https://github.com/NZN/NZAlertView) : Simple and intuitive alert view. Similar to push notification effect.
+
 
 
 ## Auto Layout
@@ -207,6 +217,7 @@
 * [SnapKit](https://github.com/SnapKit/SnapKit) : SnapKit is a DSL to make Auto Layout easy on both iOS and OS X.
 * [UITableView-FDTemplateLayoutCell](https://github.com/forkingdog/UITableView-FDTemplateLayoutCell) : Template auto layout cell for automatically UITableViewCell height calculating
 * [Masonry](https://github.com/SnapKit/Masonry) : Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax. Supports iOS and OSX Auto Layout
+* [Facade](https://github.com/mamaral/Facade) : Façade is a UIView category allowing you to build your UI in real-world terms, in the same way you would explain the layout to someone in conversation.
 
 ## Data
 ### Data Storage
@@ -239,7 +250,8 @@
 * [ASIHTTPRequest](https://github.com/pokeb/asi-http-request) : ASIHTTPRequest is an easy to use wrapper around the CFNetwork API that makes some of the more tedious aspects of communicating with web servers easier.
 * [OHHTTPStubs](https://github.com/AliSoftware/OHHTTPStubs) : Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
 * [CocoaSSDP](https://github.com/sboisson/CocoaSSDP) : Simple Service Discovery Protocol client library for Mac and iOS.
-
+* [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) : An XMPP Framework in Objective-C for Mac and iOS
+* [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) : A high performance WebSocket client library for Swift.
 
 ### Synchronize
 * [TICoreDataSync](https://github.com/nothirst/TICoreDataSync) : Automatic synchronization for Core Data apps, between any combination of Mac OS X and iOS: Mac to iPhone to iPad to iPod touch and back again.
@@ -307,6 +319,7 @@
 
 ## Encryption
 * [RNCryptor](https://github.com/RNCryptor/RNCryptor) : CCCryptor (AES encryption) wrappers for iOS and Mac.
+* [CPAProxy](https://github.com/ursachec/CPAProxy) : CPAProxy is an Objective-C library that eases the use of Tor on iOS. 
 
 ## Payment
 * [PaymentKit](https://github.com/stripe/PaymentKit) : Easily accept payments on iOS
@@ -335,3 +348,4 @@
 * [KVOMutableArray](An NSMutableArray which can be key value observed (KVO)) : https://github.com/haifengkao/KVOMutableArray
 * [ReflectableEnum](https://github.com/fastred/ReflectableEnum) : Reflection for enumerations in Objective-C.
 * [M13PDFKit](https://github.com/Marxon13/M13PDFKit) : M13PDFKit is an iBooks like PDF viewer that can be embedded in iOS applications.
+* [SCRecorder](https://github.com/rFlex/SCRecorder) : iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing
