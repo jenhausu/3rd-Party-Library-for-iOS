@@ -42,6 +42,7 @@
 * [RNThemeManager](https://github.com/rnystrom/RNThemeManager) : Easily manage themes and respond to theme changes by updating views in real time.
 * [SSBouncyButton](https://github.com/StyleShare/SSBouncyButton) : iOS7-style bouncy button.
 * [MaterialKit](https://github.com/nghialv/MaterialKit) : Material design components for iOS written in Swift
+* [MAThemeKit](https://github.com/mamaral/MAThemeKit) : MAThemeKit provides iOS developers the ability to create a coherent color theme throughout their entire application using a single line of code
 
 ## Color
 * [MPColorTools](https://github.com/marzapower/MPColorTools) : A collection of tools for handling colors on iOS SDK
@@ -73,10 +74,14 @@
 * [AwesomeMenu](https://github.com/levey/AwesomeMenu) : AwesomeMenu is a menu with the same look as the story menu of Path.
 * [PopMenu](https://github.com/xhzengAIB/PopMenu) : PopMenu is pop animation menu inspired by Sina weibo / NetEase app.
 * [KYGooeyMenu](https://github.com/KittenYang/KYGooeyMenu) : Gooey Effects 带粘性的扇形菜单
+* [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) : Folding Tab Bar and Tab Bar Controller
+* [Persei](https://github.com/Yalantis/Persei) : Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift
+* 
+
+#### Dropdown Menu
 * [DOPDropDownMenu](https://github.com/dopcn/DOPDropDownMenu) : Drop down menu like we see on website for iPhone
 * [DropdownMenu](https://github.com/nmattisson/DropdownMenu) : DropdownMenu is an iOS navigation controller using a Container View, storyboards and segues.
-* [FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) : Folding Tab Bar and Tab Bar Controller
-
+* [REMenu](https://github.com/romaonthego/REMenu) : Dropdown menu inspired by Vine.
 
 ### Side ViewController
 #### 一般
@@ -99,6 +104,7 @@
 * [CHTCollectionViewWaterfallLayout](https://github.com/chiahsien/CHTCollectionViewWaterfallLayout) : The waterfall (i.e., Pinterest-like) layout for UICollectionView.
 * [DaiExpandCollectionView](https://github.com/DaidoujiChen/DaiExpandCollectionView) : Expand the current selected item. Focus the user's eyes.
 * [CollectionViewWaterfallLayout](https://github.com/ecerney/CollectionViewWaterfallLayout) : Pinterest inspired layout for UICollectionViews
+* [PBJHexagon](https://github.com/piemonte/PBJHexagon) : iOS hexagon grid layout for UICollectionViews
 
 ### Segment Control
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) : A drop-in replacement for UISegmentedControl mimicking the style of the segmented control used in Google Currents and various other Google products.
@@ -132,6 +138,8 @@
 * [PWParallaxScrollView](https://github.com/wpsteak/PWParallaxScrollView) : PWParallaxScrollView is a library for creating sliding menus with parallax effect inspired by the WWF app
 * [DaiNavigationTransition](https://github.com/DaidoujiChen/DaiNavigationTransition) : Idea from http://nonomori.farbox.com/post/ios-7-jiao-hu-shi-guo-du, and convert this transition effect more easier to use.
 * [TwitterCover](https://github.com/cyndibaby905/TwitterCover) : TwitterCover is a parallax top view with real time blur effect to any UIScrollView, inspired by Twitter for iOS.
+* [Organic](https://github.com/mamaral/Organic) : The intuitive UITableViewController.
+* [RPSlidingMenu](https://github.com/RobotsAndPencils/RPSlidingMenu) : A collection view menu in the style of UltraVisual.
 
 
 ## Animation
@@ -145,10 +153,12 @@
 * [JazzHands](https://github.com/IFTTT/JazzHands) : A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros.
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) : Easy to read and write chainable animations in Swift
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect) : Recreating Apple’s rubber band effect in Swift
+* [SCViewShaker](https://github.com/rFlex/SCViewShaker) : A highly configurable UIView category for shaking a view with various shaking styles
 
 ## Effect
 * [Shimmer](https://github.com/facebook/Shimmer) : An easy way to add a simple, shimmering effect to any view in an iOS app.
 * [WZFlashButton](https://github.com/SatanWoo/WZFlashButton) : A button with flash-like effect
+* [Twinkle](https://github.com/piemonte/Twinkle) : a Swift and easy way to make elements in your iOS app twinkle
 
 ### Blur
 * [UIImage-BlurredFrame](https://github.com/Adrian2112/UIImage-BlurredFrame) : UIImage category that blurs an specified frame of a UIImage
@@ -198,7 +208,11 @@
 * [XHRefreshControl](https://github.com/xhzengAIB/XHRefreshControl) : XHRefreshControl 是一款高扩展性、低耦合度的下拉刷新、上提加载更多的组件。
 * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) : Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code.
 * [PathCover](https://github.com/JackTeam/PathCover) : PathCover is pull down refresh and a parallax/zooming top view with real time blur effect to any UITableView, inspired by Path for iOS.
+* [BEMPullToRefreshWP8](https://github.com/Boris-Em/BEMPullToRefreshWP8) : Simple Pull to Refresh Control for iOS. Inspired by WP8.
+
+### Pull To Refresh Animation
 * [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) : Custom animated pull-to-refresh that can be easily added to UIScrollView
+* [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) : Play BreakOut while loading - A playable pull to refresh view using SpriteKit
 
 ## Notification
 * [CRToast](https://github.com/cruffenach/CRToast) : CRToast is a library that allows you to easily create notifications that appear on top of or by pushing out the status bar or navigation bar.
@@ -207,8 +221,6 @@
 * [JDStatusBarNotification](https://github.com/jaydee3/JDStatusBarNotification) : Easy, customizable notifications displayed on top of the statusbar.
 * [TSMessages](https://github.com/KrauseFx/TSMessages) :This library provides an easy to use class to show little notification views on the top of the screen.
 * [NZAlertView](https://github.com/NZN/NZAlertView) : Simple and intuitive alert view. Similar to push notification effect.
-
-
 
 ## Auto Layout
 * [FLKAutoLayout](https://github.com/floriankugler/FLKAutoLayout) : UIView category which makes it easy to create layout constraints in code
@@ -314,8 +326,21 @@
 * [JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) : UITextField subclass with floating labels - inspired by Matt D. Smith's design:
 * [JOTextField](https://github.com/lojals/JOTextField) : Custom version of UITextField
 
-## Audio
+## MultiMedia
+* [SCWaveformView](https://github.com/rFlex/SCWaveformView) : A blazing fast customizable waveform view
+
+### Audio
 * [RecordAndPlayVoice](https://github.com/liuchunlao/RecordAndPlayVoice) : 模仿微信的录音和播放功能，在录音的时候检测音量调整图片，可以实现录音、播放、及删除录音文件功能。
+
+### Image & Photo
+* [NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer) : NYTPhotoViewer is a slideshow and image viewer that includes double tap to zoom, captions, support for multiple images, interactive flick to dismiss, animated zooming presentation, and more.
+* [CTAssetsPickerController](https://github.com/chiunam/CTAssetsPickerController) : iOS control that allows picking multiple photos and videos from user's photo library.
+
+### Vedio
+* [PBJVision](https://github.com/piemonte/PBJVision) : iOS camera engine, features touch-to-record video, slow motion video, and photo capture
+* [PBJVideoPlayer](https://github.com/piemonte/PBJVideoPlayer) : iOS video player, simple drop in component for playing and streaming media
+* [Player](https://github.com/piemonte/Player) : iOS video player in Swift, simple drop in component for playing and streaming media
+
 
 ## Encryption
 * [RNCryptor](https://github.com/RNCryptor/RNCryptor) : CCCryptor (AES encryption) wrappers for iOS and Mac.
@@ -327,6 +352,7 @@
 
 ## Code
 * [ReflectableEnum](https://github.com/fastred/ReflectableEnum) : Reflection for enumerations in Objective-C.
+* [FormatterKit](https://github.com/mattt/FormatterKit) : `stringWithFormat:` for the sophisticated hacker set
 
 ## Custom datePicker
 * [MWDatePicker](https://github.com/mwermuth/MWDatePicker) : Customize the good ol' UIDatePicker
@@ -349,3 +375,5 @@
 * [ReflectableEnum](https://github.com/fastred/ReflectableEnum) : Reflection for enumerations in Objective-C.
 * [M13PDFKit](https://github.com/Marxon13/M13PDFKit) : M13PDFKit is an iBooks like PDF viewer that can be embedded in iOS applications.
 * [SCRecorder](https://github.com/rFlex/SCRecorder) : iOS camera engine with Vine-like tap to record, animatable filters, slow motion, segments editing
+* [HCSStarRatingView](https://github.com/hugocampossousa/HCSStarRatingView) : Simple star rating view for iOS written in Objective-C
+* [BEMAnalogClock](https://github.com/Boris-Em/BEMAnalogClock) : iOS library to create elegant, interactive clocks.
