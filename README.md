@@ -325,6 +325,7 @@
 * [node-apn](https://github.com/argon/node-apn) : Apple Push Notification module for Node.js
 * [Houston](https://github.com/nomad/houston) : Houston is a simple gem for sending Apple Push Notifications. Pass your credentials, construct your message, and send it.
 * [Orbiter](https://github.com/mattt/Orbiter) : Orbiter is a small library that provides simple interfaces to register (and unregister) for Push Notifications with Urban Airship (without needing to include their SDK), as well as Helios apps.
+* [node-pushserver](https://github.com/Smile-SA/node-pushserver) : Push Server is a cross-plateform push server based on node-apn and node-gcm.
 
 ## Tools
 * [VVDocumenter-Xcode](https://github.com/onevcat/VVDocumenter-Xcode) : Xcode plug-in which helps you write Javadoc style documents easier.
