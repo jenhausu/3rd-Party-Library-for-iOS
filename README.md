@@ -181,6 +181,7 @@
 * [ZoomTransition](https://github.com/tristanhimmelman/ZoomTransition) : Interactive zoom transition for presenting view controllers written in Swift
 * [DDHDynamicViewControllerTransitions](https://github.com/dasdom/DDHDynamicViewControllerTransitions) : Custom view controller transitions using UIDynamic behaviors.
 * [DDHCustomTransition](https://github.com/dasdom/DDHCustomTransition) : Helper classes to make basic view controller transitions easier
+* [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) : An iOS transition for controllers based on material design.
 
 
 ## Chart
