@@ -50,6 +50,7 @@
 * [Chameleon](https://github.com/VAlexander/Chameleon) : Chameleon is the first and only color framework on the market that focuses its full attention and efforts on "flat colors". With Chameleon, you can easily forget about UIColor RGB values, wasting hours figuring out the right color combinations to use in your app, and worrying about whether your text will be readable on the various background colors of your app.
 * [UIColor-ChineseTraditionalColors](https://github.com/zhxnlai/UIColor-ChineseTraditionalColors) : A swift extension that extends UIColor with a list of Chinese traditional colors
 * [XCode-Color-Fixer](https://github.com/duowan/XCode-Color-Fixer) : StoryBoard / XIB 颜色偏差很严重，怎么破？XCode-Color-Fixer帮你忙！
+* [DynamicColor](https://github.com/yannickl/DynamicColor) : Yet another extension to manipulate colors easily in Swift
 
 ### alertView
 * [SIAlertView](https://github.com/Sumi-Interactive/SIAlertView) : An UIAlertView replacement with block syntax and fancy transition styles.
@@ -92,6 +93,7 @@
 * [ViewDeck](https://github.com/Inferis/ViewDeck) : An implementation of the sliding functionality found in the Path 2.0 or Facebook iOS apps.
 * [SWRevealViewController](https://github.com/John-Lluch/SWRevealViewController) : A UIViewController subclass for presenting side view controllers inspired on the FaceBook and Wunderlist apps, done right ! ([教學文](http://www.appcoda.com/sidebar-menu-swift/))
 * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) : A simple side menu for iOS 7/8 written in Swift.
+* [SlideMenuControllerSwift](https://github.com/dekatotoro/SlideMenuControllerSwift) : iOS Slide Menu View based on Google+, iQON, Feedly, Ameba iOS app. It is written in pure swift.
 
 #### 有縮放
 * [KGFloatingDrawer](https://github.com/KyleGoddard/KGFloatingDrawer) : A floating navigation drawer with an interesting animated presentation written in Swift.
@@ -117,6 +119,7 @@
 * [GUITabPagerViewController](https://github.com/guilhermearaujo/GUITabPagerViewController) : PageViewController with a Tab Bar Controller on the top
 * [PagingMenuController](https://github.com/kitasuke/PagingMenuController) : Paging view controller with customizable menu
 * [MMScrollPresenter](https://github.com/MitchellMalleo/MMScrollPresenter) : iOS Custom UIScrollView Control for paging UIViews
+* [KYAnimatedPageControl](https://github.com/KittenYang/KYAnimatedPageControl) : A custom UIPageControl with multiple animations
 
 ### NavigationBar & HeaderBar
 * [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) : Scrollable UINavigationBar that follows the scrolling of a UIScrollView.
@@ -126,6 +129,9 @@
 ### Layout
 * [ios-flexboxkit](https://github.com/alexdrone/ios-flexboxkit) : A simple UIKit extension to wrap Flexbox layouts.
 * [UICollectionView-ARDynamicHeightLayoutCell](https://github.com/AugustRush/UICollectionView-ARDynamicHeightLayoutCell) : Automatically UICollectionViewCell size calculating.
+
+### TabBar
+* [animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) : RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items.
 
 
 ### Others UI
@@ -144,6 +150,7 @@
 * [Organic](https://github.com/mamaral/Organic) : The intuitive UITableViewController.
 * [RPSlidingMenu](https://github.com/RobotsAndPencils/RPSlidingMenu) : A collection view menu in the style of UltraVisual.
 * [VAProgressCircle](https://github.com/MitchellMalleo/VAProgressCircle) : iOS custom UIView for loading content
+* [ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) : A simple view for building card like interface like Tinder and Potluck.
 
 ## Animation
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) : A curated list of awesome iOS animation, including Objective-C and Swift libraries9
@@ -157,6 +164,10 @@
 * [DKChainableAnimationKit](https://github.com/Draveness/DKChainableAnimationKit) : Easy to read and write chainable animations in Swift
 * [RubberBandEffect](https://github.com/Produkt/RubberBandEffect) : Recreating Apple’s rubber band effect in Swift
 * [SCViewShaker](https://github.com/rFlex/SCViewShaker) : A highly configurable UIView category for shaking a view with various shaking styles
+* [Spring](https://github.com/MengTo/Spring) : A library to simplify iOS animations in Swift.
+
+## Tuturial
+* [Onboard](https://github.com/mamaral/Onboard) : An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.
 
 ## Effect
 * [Shimmer](https://github.com/facebook/Shimmer) : An easy way to add a simple, shimmering effect to any view in an iOS app.
@@ -182,6 +193,9 @@
 * [DDHDynamicViewControllerTransitions](https://github.com/dasdom/DDHDynamicViewControllerTransitions) : Custom view controller transitions using UIDynamic behaviors.
 * [DDHCustomTransition](https://github.com/dasdom/DDHCustomTransition) : Helper classes to make basic view controller transitions easier
 * [JTMaterialTransition](https://github.com/jonathantribouharet/JTMaterialTransition) : An iOS transition for controllers based on material design.
+
+## ActivityIndicatorView
+* [DGActivityIndicatorView](https://github.com/gontovnik/DGActivityIndicatorView) : 
 
 
 ## Chart
@@ -253,13 +267,15 @@
 * [TMCache](https://github.com/tumblr/TMCache) : Fast parallel object cache for iOS and OS X.
 * [Realm](https://github.com/realm/realm-cocoa) : Realm is a mobile database: a replacement for Core Data & SQLite 
 * [SQLight](https://github.com/gaosboy/SQLight) : SQLite封装，让SQLite操作简单的就像NSUserDefaults一样
+* [SQLite.swift](https://github.com/stephencelis/SQLite.swift) : A type-safe, Swift-language layer over SQLite3.
 
 ### Core Data
 * [SSDataKit](https://github.com/soffes/ssdatakit) : Eliminate your Core Data boilerplate code.
 * [JSQCoreDataKit](https://github.com/jessesquires/JSQCoreDataKit) : A swifter Core Data stack
 * [Core-Data-Editor](https://github.com/ChristianKienle/Core-Data-Editor) : Core Data Editor lets you easily view, edit and analyze applications‘ data. 
 * [ARCoreData](https://github.com/AugustRush/ARCoreData) : ARCoreData is a library to make CoreData easily.
-* [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) : Super Awesome Easy Fetching for Core Data 
+* [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) : Super Awesome Easy Fetching for Core Data
+* [CoreFMDB](https://github.com/nsdictionary/CoreFMDB) : MJExtension续作之一：取代Core Data的利器，实现ios一键ORM的基石！
 
 ### JSON
 * [Sync](https://github.com/hyperoslo/Sync) : Modern JSON synchronization to Core Data
@@ -272,6 +288,7 @@
 * [Argo](https://github.com/thoughtbot/Argo) : Functional JSON parsing library for Swift
 * [MJExtension](https://github.com/CoderMJLee/MJExtension) : he fastest, most convenient and most nonintrusive conversion between JSON and model. Your model class don't need to extend another base class. You don't need to modify any model file. Nonintrusive, convenient.
 * [EasyMapping](https://github.com/EasyMapping/EasyMapping) : An easy way to unmarshall a Dictionary of attributes (which came from JSON, XML or just a NSDictionary) into a Class and vice versa.
+* [json-framework](https://github.com/stig/json-framework) : JSON (JavaScript Object Notation) is a light-weight data interchange format that's easy to read and write for humans and computers alike. This framework implements a strict JSON parser and generator in Objective-C.
 
 ### Others
 * [SWXMLHash](https://github.com/drmohundro/SWXMLHash) : Simple XML parsing in Swift
@@ -289,16 +306,22 @@
 * [XMPPFramework](https://github.com/robbiehanson/XMPPFramework) : An XMPP Framework in Objective-C for Mac and iOS
 * [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) : A high performance WebSocket client library for Swift.
 * [MMBarricade](https://github.com/mutualmobile/MMBarricade) : MMBarricade is a framework for setting up a run-time configurable local server in iOS apps.
+* [swifter](https://github.com/glock45/swifter) : Tiny http server engine written in Swift programming language.
+* [Starscream](https://github.com/daltoniam/Starscream) : Websockets in swift for iOS and OSX
 
 ### Synchronize
 * [TICoreDataSync](https://github.com/nothirst/TICoreDataSync) : Automatic synchronization for Core Data apps, between any combination of Mac OS X and iOS: Mac to iPhone to iPad to iPod touch and back again.
 
 ### Asynchronous
 * [CocoaAsyncSocket](https://github.com/robbiehanson/CocoaAsyncSocket) : Asynchronous socket networking library for Mac and iOS
+* [AsyncDisplayKit](https://github.com/facebook/AsyncDisplayKit) : Smooth asynchronous user interfaces for iOS apps.
 
 ### Backend
 * [DataKit](https://github.com/eaigner/DataKit) : DataKit makes it easy to add web backends to your apps!
 * [MPOAuth](https://github.com/thekarladam/MPOAuth) : With MPOAuthConnection, all the work of talking to secure web services is taken care of for you so you only have to focus on how you want to use the data the remote web service provides.
+
+## DeepLink
+* [DeepLinkKit](https://github.com/usebutton/DeepLinkKit) : A splendid route-matching, block-based way to handle your deep links.
 
 ## Location
 * [INTULocationManager](https://github.com/intuit/LocationManager) : INTULocationManager makes it easy to get the device's current location on iOS. 
@@ -306,6 +329,7 @@
 ## Touch & Gesture
 * [TouchVisualizer](https://github.com/morizotter/TouchVisualizer) : Lightweight touch visualization library in Swift. A single line of code and visualize your touches!
 * [SloppySwiper](https://github.com/fastred/SloppySwiper) : UINavigationController delegate that allows swipe back gesture to be started from anywhere on the screen (not just from the edge).
+* [FDFullscreenPopGesture](https://github.com/forkingdog/FDFullscreenPopGesture) : A UINavigationController's category to enable fullscreen pop gesture with iOS7+ system style.
 
 ## Debug
 * [Alpha](https://github.com/Legoless/Alpha) : An in-app debugging and exploration tool for iOS
@@ -367,10 +391,12 @@
 * [RecordAndPlayVoice](https://github.com/liuchunlao/RecordAndPlayVoice) : 模仿微信的录音和播放功能，在录音的时候检测音量调整图片，可以实现录音、播放、及删除录音文件功能。
 
 ### Image & Photo
+* [SDWebImage](https://github.com/rs/SDWebImage) : Asynchronous image downloader with cache support with an UIImageView category
 * [NYTPhotoViewer](https://github.com/NYTimes/NYTPhotoViewer) : NYTPhotoViewer is a slideshow and image viewer that includes double tap to zoom, captions, support for multiple images, interactive flick to dismiss, animated zooming presentation, and more.
 * [CTAssetsPickerController](https://github.com/chiunam/CTAssetsPickerController) : iOS control that allows picking multiple photos and videos from user's photo library.
 * [Toucan](https://github.com/gavinbunney/Toucan) : Fabulous Image Processing in Swift
 * [AFImageHelper](https://github.com/melvitax/AFImageHelper) : Convenience extension for UIImage and UIImageView in Swift
+* [TOCropViewController](https://github.com/TimOliver/TOCropViewController) : A view controller that allows users to crop UIImage objects.
 
 ### Vedio
 * [PBJVision](https://github.com/piemonte/PBJVision) : iOS camera engine, features touch-to-record video, slow motion video, and photo capture
