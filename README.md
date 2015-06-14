@@ -223,6 +223,7 @@
 ### Pull To Refresh Animation
 * [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) : Custom animated pull-to-refresh that can be easily added to UIScrollView
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) : Play BreakOut while loading - A playable pull to refresh view using SpriteKit
+* [MAGearRefreshControl](https://github.com/micazeve/MAGearRefreshControl) : An iOS refresh control with gear animation
 
 ## Notification
 * [CRToast](https://github.com/cruffenach/CRToast) : CRToast is a library that allows you to easily create notifications that appear on top of or by pushing out the status bar or navigation bar.
