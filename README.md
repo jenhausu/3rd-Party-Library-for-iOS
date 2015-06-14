@@ -151,6 +151,8 @@
 * [RPSlidingMenu](https://github.com/RobotsAndPencils/RPSlidingMenu) : A collection view menu in the style of UltraVisual.
 * [VAProgressCircle](https://github.com/MitchellMalleo/VAProgressCircle) : iOS custom UIView for loading content
 * [ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) : A simple view for building card like interface like Tinder and Potluck.
+* [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) : A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display.
+* [HamburgerButton](https://github.com/fastred/HamburgerButton) : Animated hamburger button.
 
 ## Animation
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) : A curated list of awesome iOS animation, including Objective-C and Swift libraries9
@@ -276,6 +278,7 @@
 * [ARCoreData](https://github.com/AugustRush/ARCoreData) : ARCoreData is a library to make CoreData easily.
 * [MagicalRecord](https://github.com/magicalpanda/MagicalRecord) : Super Awesome Easy Fetching for Core Data
 * [CoreFMDB](https://github.com/nsdictionary/CoreFMDB) : MJExtension续作之一：取代Core Data的利器，实现ios一键ORM的基石！
+* [CoreStore](https://github.com/JohnEstropia/CoreStore) : Simple, elegant, and smart Core Data programming with Swift
 
 ### JSON
 * [Sync](https://github.com/hyperoslo/Sync) : Modern JSON synchronization to Core Data
@@ -309,6 +312,9 @@
 * [swifter](https://github.com/glock45/swifter) : Tiny http server engine written in Swift programming language.
 * [Starscream](https://github.com/daltoniam/Starscream) : Websockets in swift for iOS and OSX
 
+### WebSocket
+* [SwiftWebSocket](https://github.com/tidwall/SwiftWebSocket) : High performance WebSocket client library for Swift.
+
 ### Synchronize
 * [TICoreDataSync](https://github.com/nothirst/TICoreDataSync) : Automatic synchronization for Core Data apps, between any combination of Mac OS X and iOS: Mac to iPhone to iPad to iPod touch and back again.
 
@@ -319,6 +325,8 @@
 ### Backend
 * [DataKit](https://github.com/eaigner/DataKit) : DataKit makes it easy to add web backends to your apps!
 * [MPOAuth](https://github.com/thekarladam/MPOAuth) : With MPOAuthConnection, all the work of talking to secure web services is taken care of for you so you only have to focus on how you want to use the data the remote web service provides.
+* [Moya](https://github.com/ashfurrow/Moya) : Network abstraction layer written in Swift
+
 
 ## DeepLink
 * [DeepLinkKit](https://github.com/usebutton/DeepLinkKit) : A splendid route-matching, block-based way to handle your deep links.
@@ -339,6 +347,8 @@
 * [XLTestLog](https://github.com/xareelee/XLTestLog) : Styling and coloring your XCTest logs on Xcode Console
 * [KIF](https://github.com/kif-framework/KIF) : Keep It Functional - An iOS Functional Testing Framework
 * [slather](https://github.com/venmo/slather) : Generate test coverage reports for Xcode projects & hook it into CI.
+* [SwiftCov](https://github.com/realm/SwiftCov) : A tool to generate test code coverage information for Swift.
+* [SwiftCheck](https://github.com/typelift/SwiftCheck) : QuickCheck for Swift
 
 ## Log
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) : CleanroomLogger provides an extensible Swift-based logging API that is simple, lightweight and performant
@@ -387,6 +397,10 @@
 ## MultiMedia
 * [SCWaveformView](https://github.com/rFlex/SCWaveformView) : A blazing fast customizable waveform view
 
+### PDF
+* [Reader](https://github.com/KiranPanesar/Reader) : PDF Reader Core for iOS 
+
+
 ### Audio
 * [RecordAndPlayVoice](https://github.com/liuchunlao/RecordAndPlayVoice) : 模仿微信的录音和播放功能，在录音的时候检测音量调整图片，可以实现录音、播放、及删除录音文件功能。
 
@@ -402,6 +416,7 @@
 * [PBJVision](https://github.com/piemonte/PBJVision) : iOS camera engine, features touch-to-record video, slow motion video, and photo capture
 * [PBJVideoPlayer](https://github.com/piemonte/PBJVideoPlayer) : iOS video player, simple drop in component for playing and streaming media
 * [Player](https://github.com/piemonte/Player) : iOS video player in Swift, simple drop in component for playing and streaming media
+* [ASScreenRecorder](https://github.com/alskipp/ASScreenRecorder) : Record iOS screen contents to .mp4 video file
 
 
 ## Encryption
@@ -411,7 +426,7 @@
 
 ## Payment
 * [PaymentKit](https://github.com/stripe/PaymentKit) : Easily accept payments on iOS
-2. [stripe-ios](https://github.com/stripe/stripe-ios) : The Stripe iOS SDK make it easy to collect your users' credit card details inside your iOS app.
+* [stripe-ios](https://github.com/stripe/stripe-ios) : The Stripe iOS SDK make it easy to collect your users' credit card details inside your iOS app.
 
 ## Code
 * [ReflectableEnum](https://github.com/fastred/ReflectableEnum) : Reflection for enumerations in Objective-C.
@@ -422,6 +437,7 @@
 * [CargoBay](https://github.com/mattt/CargoBay) : The Essential StoreKit Companion
 * [HealthKit-Swift](https://github.com/Darktt/HealthKit-Swift) : Apple HealthKit sample code fit swift version.
 * [JSDecoupledAppDelegate](https://github.com/JaviSoto/JSDecoupledAppDelegate) : UIApplicationDelegate class that separates the different responsibilities into more more reusable classes.
+* [SmileTouchID](https://github.com/liu044100/SmileTouchID) : A Library for configure Touch ID & passcode conveniently
 
 ## Custom datePicker
 * [MWDatePicker](https://github.com/mwermuth/MWDatePicker) : Customize the good ol' UIDatePicker
