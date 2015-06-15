@@ -153,6 +153,7 @@
 * [ZLSwipeableViewSwift](https://github.com/zhxnlai/ZLSwipeableViewSwift) : A simple view for building card like interface like Tinder and Potluck.
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) : A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display.
 * [HamburgerButton](https://github.com/fastred/HamburgerButton) : Animated hamburger button.
+* [ABFRealmSearchViewController](https://github.com/bigfish24/ABFRealmSearchViewController) : Drop-in text search interface for an RLMObject subclass.
 
 ## Animation
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) : A curated list of awesome iOS animation, including Objective-C and Swift libraries9
@@ -327,6 +328,9 @@
 * [MPOAuth](https://github.com/thekarladam/MPOAuth) : With MPOAuthConnection, all the work of talking to secure web services is taken care of for you so you only have to focus on how you want to use the data the remote web service provides.
 * [Moya](https://github.com/ashfurrow/Moya) : Network abstraction layer written in Swift
 
+### WebRTC
+* [webrtc-build-scripts](https://github.com/pristineio/webrtc-build-scripts) : A set of build scripts useful for building WebRTC libraries for Android and iOS.
+
 
 ## DeepLink
 * [DeepLinkKit](https://github.com/usebutton/DeepLinkKit) : A splendid route-matching, block-based way to handle your deep links.
@@ -341,6 +345,7 @@
 
 ## Debug
 * [Alpha](https://github.com/Legoless/Alpha) : An in-app debugging and exploration tool for iOS
+* [DaiMethodTracing](https://github.com/DaidoujiChen/DaiMethodTracing) : This is a tool for understanding your methods. You can monitor the input / output value, method relationships, method process time.
 
 ## Testing
 * [Remote - Control your iPhone from Xcode](https://github.com/johnno1962/Remote) : "Remote" is a plugin for Xcode that allows you to control an iPhone from a window on your Mac during development. Originally created to avoid having to pick up a device during testing you can record "macros" of device touches and replay them. It will also compare the resulting screen output against a snapshot for end-to-end testing. The Macro log is an editable WebView that can be modified at will. Finally, you can now record and save all display output into a quicktime movie.
@@ -354,6 +359,7 @@
 * [CleanroomLogger](https://github.com/emaloney/CleanroomLogger) : CleanroomLogger provides an extensible Swift-based logging API that is simple, lightweight and performant
 * [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack) : A fast & simple, yet powerful & flexible logging framework for Mac and iOS
 * [XCGLogger](https://github.com/DaveWoodCom/XCGLogger) : A debug log framework for use in Swift projects. Allows you to log details to the console (and optionally a file), just like you would have with NSLog or println, but with additional information, such as the date, function name, filename and line number.
+* [XCDLumberjackNSLogger](https://github.com/0xced/XCDLumberjackNSLogger) : CocoaLumberjack logger which sends logs to NSLogger
 
 
 ## Apple Push Notification Service
@@ -468,3 +474,6 @@
 * [SkyLab](https://github.com/mattt/SkyLab) : Multivariate & A/B Testing for iOS and Mac
 * [FGTranslator](https://github.com/gpolak/FGTranslator) : A simple iOS library for Google & Bing translation APIs.
 * [JSQWebViewController](https://github.com/jessesquires/JSQWebViewController) : A lightweight Swift WebKit view controller for iOS
+
+## Funny Thing
+* [InspireKit](https://github.com/samjarman/InspireKit) : Inspire your users with the wise words of Shia LaBeouf
