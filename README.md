@@ -43,6 +43,7 @@
 * [SSBouncyButton](https://github.com/StyleShare/SSBouncyButton) : iOS7-style bouncy button.
 * [MaterialKit](https://github.com/nghialv/MaterialKit) : Material design components for iOS written in Swift
 * [MAThemeKit](https://github.com/mamaral/MAThemeKit) : MAThemeKit provides iOS developers the ability to create a coherent color theme throughout their entire application using a single line of code
+* [ParseUI-iOS](https://github.com/ParsePlatform/ParseUI-iOS) : A collection of a handy user interface components to be used with the Parse iOS SDK.
 
 ## Color
 * [MPColorTools](https://github.com/marzapower/MPColorTools) : A collection of tools for handling colors on iOS SDK
@@ -154,6 +155,7 @@
 * [DZNEmptyDataSet](https://github.com/dzenbot/DZNEmptyDataSet) : A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display.
 * [HamburgerButton](https://github.com/fastred/HamburgerButton) : Animated hamburger button.
 * [ABFRealmSearchViewController](https://github.com/bigfish24/ABFRealmSearchViewController) : Drop-in text search interface for an RLMObject subclass.
+* [WZDraggableSwitchHeaderView](https://github.com/wongzigii/WZDraggableSwitchHeaderView) : A header view shows status for switching between viewControllers
 
 ## Animation
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) : A curated list of awesome iOS animation, including Objective-C and Swift libraries9
@@ -236,11 +238,13 @@
 * [SVPullToRefresh](https://github.com/samvermette/SVPullToRefresh) : Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code.
 * [PathCover](https://github.com/JackTeam/PathCover) : PathCover is pull down refresh and a parallax/zooming top view with real time blur effect to any UITableView, inspired by Path for iOS.
 * [BEMPullToRefreshWP8](https://github.com/Boris-Em/BEMPullToRefreshWP8) : Simple Pull to Refresh Control for iOS. Inspired by WP8.
+* [CoreRefresh](https://github.com/nsdictionary/CoreRefresh) : 核心上拉下拉刷新控件，专业、高性能、个性化，与众不同！创意灵感来自iPad版本的土豆和淘宝！
 
 ### Pull To Refresh Animation
 * [PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) : Custom animated pull-to-refresh that can be easily added to UIScrollView
 * [BreakOutToRefresh](https://github.com/dasdom/BreakOutToRefresh) : Play BreakOut while loading - A playable pull to refresh view using SpriteKit
 * [MAGearRefreshControl](https://github.com/micazeve/MAGearRefreshControl) : An iOS refresh control with gear animation
+* [Replace-iOS](https://github.com/MartinRGB/Replace-iOS) : Simply Implement Zee Young's animation
 
 ## Notification
 * [CRToast](https://github.com/cruffenach/CRToast) : CRToast is a library that allows you to easily create notifications that appear on top of or by pushing out the status bar or navigation bar.
@@ -374,6 +378,7 @@
 * [Nimbus](https://github.com/jverkoey/nimbus) : Nimbus is a toolkit for experienced iOS software designers. It provides well-documented, modular components that solve a number of common iOS software requirements. This includes: a rich text label with hyperlinks; a web view controller; a simple approach to table models, radio groups, and table actions; standardized interapp communication, and powerful debugging tools, amongst many other features.
 * [FLEX](https://github.com/Flipboard/FLEX) : FLEX (Flipboard Explorer) is a set of in-app debugging and exploration tools for iOS development. 
 * [Tweaks](https://github.com/facebook/Tweaks) : An easy way to fine-tune, and adjust parameters for iOS apps in development.
+* [spacecommander](https://github.com/square/spacecommander) : Commit fully-formatted Objective-C as a team without even trying.
 
 
 ## Snippets
@@ -417,6 +422,9 @@
 * [Toucan](https://github.com/gavinbunney/Toucan) : Fabulous Image Processing in Swift
 * [AFImageHelper](https://github.com/melvitax/AFImageHelper) : Convenience extension for UIImage and UIImageView in Swift
 * [TOCropViewController](https://github.com/TimOliver/TOCropViewController) : A view controller that allows users to crop UIImage objects.
+* [CorePhotoBroswerVC](https://github.com/nsdictionary/CorePhotoBroswerVC) : 快速集成高性能照片浏览器，支持本地及网络相册
+* [CorePhotoPickerVCManager](https://github.com/nsdictionary/CorePhotoPickerVCManager) : 大统一的多功能照片选取器，集成拍摄，单选，多选。
+
 
 ### Vedio
 * [PBJVision](https://github.com/piemonte/PBJVision) : iOS camera engine, features touch-to-record video, slow motion video, and photo capture
@@ -438,12 +446,16 @@
 * [ReflectableEnum](https://github.com/fastred/ReflectableEnum) : Reflection for enumerations in Objective-C.
 * [FormatterKit](https://github.com/mattt/FormatterKit) : `stringWithFormat:` for the sophisticated hacker set
 * [Ono](https://github.com/mattt/Ono) : A sensible way to deal with XML & HTML for iOS & OS X
+* [CMDQueryStringSerialization](https://github.com/calebd/CMDQueryStringSerialization) : Easy query string conversion for iOS and OS X.
 
 ## Wrap Apple's API
 * [CargoBay](https://github.com/mattt/CargoBay) : The Essential StoreKit Companion
 * [HealthKit-Swift](https://github.com/Darktt/HealthKit-Swift) : Apple HealthKit sample code fit swift version.
 * [JSDecoupledAppDelegate](https://github.com/JaviSoto/JSDecoupledAppDelegate) : UIApplicationDelegate class that separates the different responsibilities into more more reusable classes.
 * [SmileTouchID](https://github.com/liu044100/SmileTouchID) : A Library for configure Touch ID & passcode conveniently
+
+## Social
+* [openshare](https://github.com/100apps/openshare) : 不用官方SDK，利用社交软件移动客户端(微信/QQ/微博/人人/支付宝)分享/登录/支付。
 
 ## Custom datePicker
 * [MWDatePicker](https://github.com/mwermuth/MWDatePicker) : Customize the good ol' UIDatePicker
@@ -474,6 +486,7 @@
 * [SkyLab](https://github.com/mattt/SkyLab) : Multivariate & A/B Testing for iOS and Mac
 * [FGTranslator](https://github.com/gpolak/FGTranslator) : A simple iOS library for Google & Bing translation APIs.
 * [JSQWebViewController](https://github.com/jessesquires/JSQWebViewController) : A lightweight Swift WebKit view controller for iOS
+* [XcodeServerSDK](https://github.com/czechboy0/XcodeServerSDK) : Access Xcode Server API with native Swift objects.
 
 ## Funny Thing
 * [InspireKit](https://github.com/samjarman/InspireKit) : Inspire your users with the wise words of Shia LaBeouf
