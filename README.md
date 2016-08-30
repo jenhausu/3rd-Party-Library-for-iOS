@@ -46,6 +46,8 @@
 * [MaterialKit](https://github.com/nghialv/MaterialKit) : Material design components for iOS written in Swift
 * [MAThemeKit](https://github.com/mamaral/MAThemeKit) : MAThemeKit provides iOS developers the ability to create a coherent color theme throughout their entire application using a single line of code
 * [ParseUI-iOS](https://github.com/ParsePlatform/ParseUI-iOS) : A collection of a handy user interface components to be used with the Parse iOS SDK.
+* [YangMingShan](https://github.com/yahoo/YangMingShan) : YangMingShan is a collection of iOS UI components that we created while building Yahoo apps.
+
 
 ### Color
 * [MPColorTools](https://github.com/marzapower/MPColorTools) : A collection of tools for handling colors on iOS SDK
@@ -421,6 +423,13 @@
 * [SwiftCheck](https://github.com/typelift/SwiftCheck) : QuickCheck for Swift
 * [ios-snapshot-test-case](https://github.com/facebook/ios-snapshot-test-case) : Snapshot view unit tests for iOS
 * [CatchingFire](https://github.com/mrackwitz/CatchingFire) : Test Library for Swift's Error Handling
+* [calabash-ios](https://github.com/calabash/calabash-ios) : Calabash is an automated testing technology for Android and iOS native and hybrid applications.
+* [Nimble](https://github.com/Quick/Nimble) : A Matcher Framework for Swift and Objective-C
+
+### BBD
+* [Quick](https://github.com/Quick/Quick) : Quick is a behavior-driven development framework for Swift and Objective-C.
+* [Kiwi](https://github.com/kiwi-bdd/Kiwi) : Kiwi is a Behavior Driven Development library for iOS development. The goal is to provide a BDD library that is exquisitely simple to setup and use.
+
 
 ### UI Test
 * [UITestUtils](https://github.com/zmeyc/UITestUtils) : Take screenshots in Xcode UI Tests (Swift)
