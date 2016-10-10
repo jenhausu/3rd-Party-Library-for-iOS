@@ -125,6 +125,7 @@
 ### Segment Control
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) : A drop-in replacement for UISegmentedControl mimicking the style of the segmented control used in Google Currents and various other Google products.
 * [ARSegmentPager](https://github.com/AugustRush/ARSegmentPager) :segment tab controller with parallax Header
+* [TwicketSegmentedControl](https://github.com/twicketapp/TwicketSegmentedControl)
 
 
 ### PageViewController
@@ -184,6 +185,7 @@
 * [JMActionSheetDescription](https://github.com/leverdeterre/JMActionSheetDescription) : ActionSheet and UIActivityViewController replacement, using a descriptor component.
 * [EasyTipView](https://github.com/teodorpatras/EasyTipView) : A tooltip view written in Swift.
 * [Arranged](https://github.com/kean/Arranged) : Open source replacement of UIStackView for iOS 8 (100% layouts supported)
+* [10Clock](https://github.com/joedaniels29/10Clock) : This Control is a beautiful time-of-day picker heavily inspired by the iOS 10 "Bedtime" timer.
 
 ## Animation
 * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) : A curated list of awesome iOS animation, including Objective-C and Swift libraries9
@@ -553,6 +555,7 @@
 * [SmileTouchID](https://github.com/liu044100/SmileTouchID) : A Library for configure Touch ID & passcode conveniently
 * [Proposer](https://github.com/nixzhu/Proposer) : Proposer provides a simple API to request permission for access Camera, Photos, Microphone, Contacts, Location.
 * [InAppSettingsKit](https://github.com/futuretap/InAppSettingsKit) : This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.
+* [PAPermissions](https://github.com/pascalbros/PAPermissions) : A unified API to ask for permissions on iOS
 
 ## Social
 * [openshare](https://github.com/100apps/openshare) : 不用官方SDK，利用社交软件移动客户端(微信/QQ/微博/人人/支付宝)分享/登录/支付。
@@ -596,6 +599,7 @@
 * [MAIKit](https://github.com/MichaelBuckley/MAIKit) : A framework for sharing code between iOS and OS X
 * [SwiftDate](https://github.com/malcommac/SwiftDate) : Easy NSDate Management in Swift
 * [DateTools](https://github.com/MatthewYork/DateTools) : Dates and times made easy in Objective-C
+* [KZFileWatchers](https://github.com/krzysztofzablocki/KZFileWatchers) : A micro-framework for observing file changes, both local and remote. Helpful in building developer tools.
 
 ## Funny Thing
 * [InspireKit](https://github.com/samjarman/InspireKit) : Inspire your users with the wise words of Shia LaBeouf
